@@ -1,6 +1,8 @@
 Topografía externa.
 Va desde el agujero magno hasta la L1 - L2. Mide 45cm en hombres y 42cm en mujeres.
 
+(imagen I-1). Esquema que muestra las relaciones de segmentos de la médula espinal y nervios raquídeos con niveles de la columna vertebral.
+
 Se divide en distintos segmentos (31), 8C, 12T, 5L, 5S y 1COX, en los segmentos cervical superior y torácico tiene forma cilíndrida; en los cervical inferior y lumbar tiene forma oval, devido a que aquí se encuentran los plexos nerviosos braquial y lumbosacro.
 
 La punta de la médula se ahusa para formar el cono medular, de este parte un filamento pialglial, llamado el filium terminale, el cual se fija al cóccix y sujeta la médula espinal; otra forma de fijar la médula es con la duramadre, por 2 series laterales de ligamentos dentados, pliegues piales que se estiran desde la superficie de la médula hasta la vaina dural que se encuentra entre las 2 raices dorsal y ventral (corte intermedio).
@@ -25,4 +27,95 @@ Es por esto que los filamentos de las raíces de los segmentos espinales tienen 
 
 Al apiñamiento de raíces lumbosacras al rededor del filum terminale se le conoce como cola de caballo.
 
+DERMATOMAS Y MIOTOMAS
+El área de la piel inervada por la raíz posterior (dorsal) de una raíz nervios se le conoce como un dermatoma.
 
+(imagen I-2) Mapa de dermatomas que muestra referencias anatómicas del cuerpo y segmentos correspondientes de la médula espinal
+
+(cuadro I-2). Referencias anatómicas del cuerpo y dermatomas correspondientes
+
+Los músculos inervados por un segmento aislado del a médula forman un miotoma.
+
+(cuadro I-3). Miotomas de importancia clínica
+
+MENINGES
+La médula está recubierta por 3 capas meníngeas, piamadre, aracnoides y duramadre.
+
+La piamadre se compone de 2 capas, pía íntima, que está adherida a la superficie de la médula; y epipía, que lleva vasos sanguíneos que irrigan y drenan la médula, además de formar los ligamentos dentados.
+
+La aracnoides está adherida a la duramadre, y entre ellas existe el espacio subdural estrecho.
+
+Entre la aracnoides y la piamadre se define otro espacio, espacio subaracnoideo ancho, que contiene el líquido cerebroespinal.
+
+La duramadre es la última capa, adherida al hueso del agujero magno. Separada del periostio vertebral por el espacio epidural, que contiene tejido adiposo y un plexo venoso.
+
+La duramadre también envuelve las raíces dorsal y ventral de los nervios raquídeos, así como los ganglios de la raíz dorsal y las porciones proximales de los nervios raquídeos, continuandose con el epineurio de los nervios raquídeos en el agujero intervertebral.
+
+La duramadre se va mas lejos que la medula, hasta las vértebras S1 y S2. Es por esto que, abajo de donde termina la médula (cono medular) se forma en el espacio subaracnoideo (aracnoides y piamadre) un saco lleno de líquido cerebroespinal sin médula.
+
+TOPOGRAFIA TRANSVERSAL
+Transversalmente, la médula tiene un área de materia gris con forma de H, rodeada de materia blanca.
+
+Las dos secciones de la materia gris se unen por comisuras dorsal y ventral, arriba y abajo del conducto central.
+
+(imagen I-3). Microfotografía de la médula espinal que revela la division en sustasncia gris y blanca, los surcos y las fisuras, las columnas de materia gris y los fonículos de materia blanca.
+
+La materia gris contiene los cuerpos celulares de nueronas y glia.
+
+La materia blanca tiene los fascículos (fasciculos de fibras).
+
+Ambas mitades se dividen por los tabiques mediano posterior y la fisura mediana anterior.
+
+Las fibras de la raíz dorsal entran por el surco posterolateral; Las fibras de la raíz ventral salen por el surco anterolateral.
+
+Es por esto que la materia blanca se divide en 3 funículos, lateral, posterior y anterior, y además, en las porciones cervical y torácico superiores, el funículo posterior se divide en 2 partes diferentes por el tabique intermedio posterior.
+
+La materia gris se divide en una asta posterior (chiquita) y una ventral (mas grande). Los semgmentos torácicos y lumbares (brazos y piernas) presentan un asta intermediolateral con forma de rampa.
+
+En el 75% de los humanos la médula es asimétrica, favoreciendo el lado derecho el 75% de las veces. Esto es porque hay más fibras del fascículo corticoespinal descendente en el lado más grande (el deecho).
+
+Se sabe que en la pirámide medular izquierda se cruzan más fibras para la mitad derecha de la médula, mientras que en la mitad derecha se quedan ahí para descender.
+
+Por lo tanto, hay una gran cantidad de fibras corticoespinales en la mitad derecha de la médula.
+
+Todo esto no tiene que ver con con la dominancia de la mano.
+
+ANATOMÍA MACROSCÓPICA
+Varía entre las diferentes secciones de la médula. La materia blanca va aumentando en masa desde las sacras a las cervicales porque hay más fibras.
+
+(imagen I-4). Representación que muestra las variaciones de los segmentos de la médula espinal a diferentes niveles.
+
+Algunos fascículos solo aparecen en algunos niveles; El fascículo espinocerebeloso dorsal aparece en el L2 y no existe debajo de este nivel, esto es porque las neuronas que dan lugar a este fascículo aparecen en L2 y no existen en otra parte.
+
+El fascículo cuneiforme se encuentra arriba de T6 y luego ya no existe. Esto es porque el surco intermedio posterior, que separa los fascículos grácil y cuneiforme solo se encuentra arriba de T6.
+
+Otras regiones de la médula también tiene características distintivas de la materia gris; La columna intermediolateral y el núcleo dorsal de Clarke se extienden entre C8 y L2 (cuerpo), y ya no se ven después.
+
+Los engrosamientos cervical y lumbar (brazos y piernas) tienen astas ventrales voluminosas.
+
+SUSTANCIA GRIS
+A. Terminología anticuada
+Antes del 1952 la organización era la siguiente:
+
+a) Asta dorsal (posterior)
+El asta o columna dorsal recibe axones de los ganglios de la raíz dorsal por medio de las raíces dorsales, y está relacionada con la función sensorial; Esta función es dada por los núcleos posteromarginal, la sustancia gelatinosa y el núcleo propio.
+
+b) Asta intermediolateral
+Se limita a los segmentos torácicos y lumnbares (brazos + piernas). Tiene neuronas preganglionares del simpático; Los axones de estas neuronas forman las fibras nerviosas preganglionares, las cuales salen de la médula por medio de la raíz ventral.
+
+En la sección sacra no existe una asta intermediolateral precisa, pero si una evaginación dorsal del asta ventral en los segmentos S2 a S4, con neuronas parasimpáticas preganglionres.
+
+c) Asta ventral
+Con neuronas motoras multipolares, sus axones forman el componente principal de la raíz ventral.
+
+d) Zona intermedia
+Contiene el núcleo dorsal de Clarke y muchas interneuronas.
+
+(imagen I-5). Esquema transversal de la médula espinal que ilustra los principales grupos nucleares dentro de las columnas grises.
+
+B. Terminología de Rexed (moderna)
+Los grupos celulares de la médula se disponen en 10 zonas o láminas.
+
+(imagen I-6). Representación de la mitad de la médula espinal que muestra la localización de las láminas de Rexed.
+
+(cuadro I-4). Organización celular de la médula espinal.
