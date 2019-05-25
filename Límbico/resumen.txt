@@ -1,0 +1,57 @@
+Tipos de pérdida de la memoria (amnesia)
+
+Son varios tipos:
+	retrógrada
+	anterógrada
+	global
+	específica de modalidad
+	permanente
+	transitoria
+
+Retrógrada	Información obtenida antes de la enfermedad
+Anterógrada	Información desues de la enfermedad
+
+Una lesión de lado izquierdo puede afectar información verbal, de lado derecho no verbal (visual).
+
+La amnesia global es anterógrada grave, aguda y transitoria, con pérdidas periodos de retrógrada.
+
+La amnesia específica bloquea un canal específico como la visión.
+
+Síndrome de Wenicke-Korsakoff
+	Amnesia anterógrada y retrógrada graves y confabulación.
+	Ocurre por una carencia de vitamina B1 a causa del consumo de alcohol.
+	Incluye los núcleos talámicos DM y de la línea media, cuerpo mamilar y corteza cerebral frontal.
+
+Amnesia Global Transitoria
+	Pérdida de recuerdos recientes, incapacidad de retención y retrógrada variable. No se afecta inmediata y muy remota.
+	Dura unas cuantas horas
+	Se relaciona con epilepsia, cefalea migrañosa y tumor.
+	Ocurre debido a una isquemia bilateral transitoria en el territorio de circulación cerebral posterior que afecta estructuras del lóbulo temporal medio.
+	Además de depresión cortical diseminante en estructuras temporales mediales.
+	Episodios de memoria transitoria son precedidos por actividades como ejercicio, emoción intensa, coito, temperatura extrema o duchas.
+
+Síndrome de Klüver-Bucy
+	Presenta los siguientes síntomas:
+		Agnosia visual o ceguera psíquica
+		Hiperoralidad
+		Hipersexualidad
+		Docilidad
+		Falta de respuesta emocional
+		Aumento del apetito
+		Déficit de la memoria
+		Deficit en relación de información sensorial con experiencia pasada.
+	Ocurre por lesiones bilaterales del lóbulo temporal afectando la amígdala, formación hipocámpica y estructuras neuronales adyacentes.
+
+Epilepsia del lóbulo temporal
+	Se conoce como crisis psicomotoras, uncinadas y convulsiones parciales complejas.
+	Presenta los siguientes síntomas:
+		Alucinaciones olfatorias desagradables
+		Alucinaciones del gusto desagradables
+		Alucinaciones auditivas
+		Alucionaciones visuales (deja vu)
+		Movimientos rítmicos de la alimentación
+		Actos motores complejos, caminar desvestirse etc.
+		Amnesia de varias horas
+		Conducta agresiva o criminal
+	
+

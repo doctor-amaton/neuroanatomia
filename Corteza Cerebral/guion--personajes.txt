@@ -1,0 +1,64 @@
+--- Fantasma del pasado
+    (cast) Carrillo
+    
+    (vestuario)
+    - Cultura mesoamericana
+    - Cultura 
+
+--- Fantasma del meso
+    (cast) Aranza
+
+--- Fantasma del neo
+    (cast) Fátima
+
+--- Paleo
+    (fantasma)
+        Carrillo / Cavernícola
+
+    (extras)
+        Oscar
+        Raúl
+        Lauris
+        Seúl
+        Lizully
+        Fer Echevarrieta
+
+--- Meso
+    (fantasma)
+        Aranza / Milenial
+
+    (extras)
+        Michelle
+        Fernanda Carreón
+        Amatón
+        Fer Salazar
+        Paty
+        Mariana 1000
+
+--- Neo
+    (música bkg)
+        Guardianes de la galaxia
+
+    (fantasma)
+        Fátima / Cibernética
+
+    (extras)
+        Mike
+        Lizeth (Rosa)
+        Irving
+        Aba (Azul)
+        Angel (Gabardina, lentes rojos)
+        Mariana 2000 (Verde)
+
+--- Maestro
+    Da las indicaciones en el primer acto introductorio 
+
+--- Estudiante
+    (cast) Isaac
+
+    (Actos)
+    [Introducción]
+    Presentar al estudiante dentro de su clase, para que quede claro la razón por la que está preocupado
+
+--- Narrador
+    Utilizar un tono serio de televisión

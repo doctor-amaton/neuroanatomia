@@ -1,0 +1,91 @@
+Topografia macroscópica
+
+    Vista ventral
+
+        La superficie interior del mesencefalo es notable por la divergencia de dos haces voluminosos de fibras -pedunculos cerebrales- que llevan fibras corticofugales a niveles inferiores (fig 9-1).
+
+        De manera caudal, los pedunculos cerebrales pasan dentro de la base del puente; de forma rostral, continúan hacia la cápsula interna.
+
+        Entre los pedunculos se encuentra la fosa interpeduncular, de la cual sale el nervio oculomotor (III).
+
+        El nervio troclear (IV) surge de la superficie dorsal de mesencéfalo, y se curva y aparece en los bordes laterales de los pedunculos cerebrales.
+
+        El tracto óptico pasa por debajo de los pedunculos cerebrales antes de que desaparezcan dentro de la sustancia de los hemisferios cerebrales.
+
+    Vista dorsal
+
+        La superficie dorsal del mesencéfalo se distingue por cuatro elevaciones (cuerpos cuadrigéminos) (fig 5-2). Las dos rostrales y más grandes son los colículos inferiores. En una localización un poco caudal con respecto a los colículos surgen los nervios trocleares.
+
+Estructura microscópica
+
+    Organización general
+
+        En los cortes del mesencéfalo se identifican 3 subdivisiones.
+
+        1.- El tectum, que es una mezcla de sustancia gris y blanca relacionada dorsalmente con la sustancia gris central. El tectum incliye los colículos que mencionamos anteriormente (superiores e inferiores, las láminas cuadrigéminas).
+
+        El término lámina cuadrigémina fue acuñado por Vesalio como una forma de referirse al tectum. En esa época, los anatomistas querían nombrar a los colículos superiores e inferior de acuerdo con sus equivalentes en latín para los testiculos y los glúteos.
+
+        La glándula pineal suprayacente, que se veía como una piña, segun los griegos, se confundió con un pene (?). Esto era DEMASIADO explícito para Vesalio, el cual de cambió el nombre de tectum por el de lámina cuadrigeminal.
+
+        [Figura 9-1. Esquema de la superficie ventral del mesencéfalo y el puente que ilustra las pincipales estructuras del mesencéfalo en esta superficie]
+
+        [Figura 9-2. Representación de un corte transversal correspondiente al mesencéfalo con sus principales subdivisiones]
+
+        2.- El tegmento, la porción principal del mesencéfalo, se encuentra debajo de la sustancia gris central y contiene tractos ascendentes y descendentes, núcleos reticulares y masas nucleares bien delineadas.
+
+        3.- La porción basal, comprende:
+        a) pedúnculos cerebrales, un voluminoso haz de fibras corticofugales en la superficie ventral del mesencéfalo.
+
+        b) sustancia negra, una masa nuclear pigmentada situada entre la superficie dorsal del pedunculo cerebral y el tegmento.
+
+        Los "pedunculos basales" se refieren a la porción basal del mesencéfalo, mientras que la "base del pedúnculo cerebral" se refiere al haz de fibras corticofugales en la superficie ventral del mesencéfalo.
+
+        A continuación se comentan los componentes de estas subdivisiones bajo dos niveles caracteristicos del mesencéfalo: los colículos inferior y superior.
+
+        El nivel del colículo inferior se caracteriza en cortes histológicos por la decusación del pedúnculo cerebeloso superior y por el núcleo del nervio troclear (IV). El nivel del colículo superior se distingue por el nucleo rojo, el nucleo del oculomotor (III) y la comisura posterior.
+
+    Nivel del colículo inferior
+
+        A. Tectum
+
+            El núcleo del colículo inferior ocupa el tectum a nivel del colículo inferior. Este núcleo es una masa oval de neuronas pequeñas y de tamaño mediano organizadas en 3 partes:
+
+            a) Núcleo central, una masa laminada principal de neuronas
+                Es el principal núcleo de relevo de la via auditiva. Los sonidos de alta frecuencia estan representados en la parte dorsal del núcleo (como en la cóclea).
+
+            b) Nucleo pericentral, una masa celular dorsal delgada
+                El núcleo pericentral sólo recibe aferencias monoaurales contralaterales, y sirve para dirigir la atención auditiva.
+
+            c) Nucleo externo, un grupo de neuronas que rodean el nucleo central lateral y ventralmente.
+                Está relacionado con reflejos acusticos motores
+
+        El colículo inferior tiene las siguientes conexiones aferentes y eferentes:
+
+            1.- Aferentes (fig 9-3). Fibras que provienen de las siguientes estructuras:
+
+                a) Lemnisco lateral.
+                    Estas fibras terminan en los colículos inferiores ipsolaterales y contralaterales. Algunas de estas eluden el colículo inferior para irse al cuerpo geniculado medial.
+
+                b) Colículo inferior contralateral
+
+                c) Cuerpo geniculado medial ipsolateral. Esta conexión sirve como mecanismo de retroalimentación en la via auditiva.
+
+                d) Corteza cerebral (corteza auditiva primaria)
+
+                e) Corteza cerebelosa a través del velo medular anterior.
+
+            2.- Eferentes (fig 9-4). El colpiculo inferior se proyecta a las áreas siguientes
+
+                a) Cierpo geniculado medial a través del brazo del colículo inferior. Esta via se relaciona con la audición
+
+                b) Colículo inferior contralateral
+
+                c) Colículo superior. Esta via establece reflejos para voltear el cuello y los ojos en respuesta a sonidos
+
+                d) Núcleo del lemnisco lateral y otros núcleos de relevo del sistema auditivo para retroalimentación
+
+                e) Cerebelo. El colículo inferior es un centro mayor para la transmisión de impulesos auditivos al cerebelo a traves del velo medular anterior. Por consiguiente, el colículo inferior es un núcleo de relevo en la via auditiva a la corteza cerebral y el cerebelo. Además, el colículo inferior tiene un papel en la localización del origen del sonido.
+
+
+

@@ -1,0 +1,136 @@
+
+Núcleos Intralaminares, de la Línea Media y Reticular
+
+Los intralaminares están dentro de la lámina interna
+Los reticulares están entre la lámina medular externa y la cápsula interna
+
+(imagen 11-3)
+
+1.- Intralaminares
+	Caudal
+		Centromediano
+		Parafascicular
+
+	Rostral
+		Paracentral
+		Centrolateral
+		Centromedial
+
+	Conexiones Aferentes y Eferentes:
+		Aferentes
+			Formación reticular del tallo cerebral
+				Principal aferencia
+			Cerebelo
+				El dentadorrubrotalámico se proyecta en el tálamo, los colaterales a núcleos intralaminares.
+			Lemnisco espinotalámico & trigeminal
+				Se proyectan en el núcleo ventral posterior y los intralaminares
+			Globo pálido
+				Fibras palidotalámicas al ventral anterior, los colaterales a intralaminares
+			Corteza cerebral
+				Son de las áreas premotora y motora. 
+				Las motoras van al centromediano, paracentral y centrolateral
+				Las premotoras se van a los nucleos parafascicular y centrolateral.
+				Estas conexiones no son recíprocas.
+			Otras conexiones aferentes
+				Hay otras que vienen de los núcleos vestibulares, la sustancia gris periacueductal, el colículo superior, el prectum y el locus cereleus.
+
+		Eferentes
+			Otros núcleos talámicos
+				Normalmente no hay conexiones directas entre estos dos, pero el centrolateral si tiene una conexión directa con la corteza visual primaria.
+				Estos es importante porque signfica que estos núcleos se proyectan directamente a áreas corticales, además esto explica la respuesta de estas neuronas a estímulos no visuales.
+			Estriado (caudado y putamen)
+				El centromediano se va al putamen y el parafascicular al núcleo caudado
+
+2.- De la línea media
+	Se localizan en el borde medial del tálamo. Tienen un papel en la emoción, memoria y función autónoma
+
+	Paraventral
+	Central
+	Reunien
+
+	Aferencias
+		Proyecciones del hipotálamo
+		Núcleos del tallo cerebral
+		Amígdala
+		Giro Parahipocámpico
+
+	Eferencias
+		Corteza límbica
+		Estriado ventral
+
+Ambos grupos de npucleos comprenden el grupo nuclear talámico inespecífico
+
+3.- Núcleos reticulares
+	Es una continuación de la formación reticular
+	Sus eferencias son inhibidas por el ácido gammaaminobutírico [GABA]
+	Es único porque sus axones no salen nunca del tálamo.
+	Interviene en la integración y contrl de actividades de núcleos talámicos.
+
+	Aferencias
+		Corteza cerebral
+			colaterales de proyecciones corticotalámicas
+		Otros núcleos talámicos
+			Proyecciones talamocorticales
+
+	Eferencias
+
+Resumen
+Los núcleos intralaminares y el reticular reciben fibras de varios orígenes, motoras y sensoriales, proyectadas de forma difusa en la corteza cerebral.
+Sus múltiples aferencias y proyecciones le permiten actuar en la respuesta del despertar.
+Gracias a sus conexiones con los ganglios basales, los intralaminares participan en mecanismos de control motor, y gracias a los sensoriales, intervienen en el reconocimiento de la experiencia sensorial dolorosa.
+
+Por desgracia el reconocimiento del dolor está mal localizado y tiene una calidad emocional, mientras que el de reconocimiento cortical si está bien situado.
+
+
+Metatálamo
+Se refiere a 2 núcleos talámicos, el geniculado medial y el geniculado lateral
+
+
+Geniculado medial
+	Es de relevo en el sistema auditivo
+	Sus eferencias forman la radiación auditiva de la cápsula interna (parte sublenticular) a la corteza auditiva primaria del lóbulo temporal.
+	Un infarto hemorragico pequeño y tenemos hiperacusia y palinacusia, y pérdida de las aferencias del oído contralateral.
+
+	Participa
+		Análisis espectral de sonidos
+		Reconocimeinto del patrón de sonido
+		Memoria auditiva
+		Localización del sonido en el espacio
+		Igualar información auditiva con otras modalidades
+
+	Aferencias
+		Lemnisco lateral
+			Ya sea directas o después de una sinapsis en el colículo inferior (más seguido).
+			Llegan por medio del brazo del colículo inferior (cuadrigeminal inferior)
+
+		Corteza auditiva primaria en el lóbulo temporal
+			Son de retroalimentación.
+
+	Eferencias
+
+Núcleo geniculado lateral
+	Es relevo del visual
+	Es laminado, cada retina se proyecta en diferentes láminas
+
+	Laminaciones
+		Retina Ipsolateral
+			II III y V
+		Contralateral
+			I IV y VI
+
+	Aferencias
+		Tracto óptico
+			Conducen impulsos de ambas retinas
+
+		Corteza visual primaria (lóbulos occipitales)
+			Son de retroalimentación
+
+	Flujo eferente
+		Radiación óptica de la cápsula interna (retrolenticular)
+			a la corteza visual primaria en el lóbulo occipital
+
+		Núcleo pulvinar
+		Corteza visual secundaria
+
+
+
