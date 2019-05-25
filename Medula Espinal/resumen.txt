@@ -224,4 +224,44 @@ b) Receptores propioceptivos (huso muscular, órgano tendinoso de Golgi y recept
 
 Las fibras nerviosas del funículo posterior tienen una capa de mielina, y ocupan la parte dorsolateral de la raíz dorsal; Las que penetran la médula espinal bajo T6 están en forma medial en el funículo posterior y forman el fascículo grácil (fascículo de Goll); Las que penetran la médula arriba de T6 están más laterales y forman el fascículo cuneiforme (Columna de Bordach).
 
-Es por esto que las fibras nerviosas del funículo posterior se distribuyen en láminas o capas
+Es por esto que las fibras nerviosas del funículo posterior se distribuyen en láminas o capas, por lo que las de la región sacra son más mediales, mientras uqe las que provienen de la cervical son más laterales.
+
+(imagen I-8). Representación de la médula espinal que delinea la disposición espacial de fibras en el funículo posterior.
+
+La laminación del funículo posterior es segmentaria también (Sacra, lumbar, torácica, cervical) y orientada por modalidad.
+
+Las fibras que conducen impulsos de receptores del pelo son superficiales, y vienen seguidas de fibras que median sensaciones táctiles y vibratorias en capas poco a poco más profundas.
+
+Las fibras que forman el funículo posterior ascienden y hacen sinapsis con los núcleos de la columna posterior de la médula oblongada.
+
+Los axones de estos núcleos cruzan la línea media y con ello forman el lemnisco medial, el cual asciende hasta el tálamo (nucleo ventral posterolateral) y de aquí se va para la corteza sensorial primaria (somestésica).
+
+85% de las fibras ascendentes del funículo posterior son aferentes primarias unimodales y activan la estimulación de mecanorreceptores; El otro 15% son no primarias polimodales, activan la estimulación de mecanorreceptores y nociceptores.
+
+Todas las fibras tienen sus cuerpos celulares en los ganglios de la raíz dorsal.
+
+Algunas fibras emiten ramas que terminan en la materia gris del asta posterior, le confieren al funículo posterior su función de modificación sensorial; Funciona para inhibir dolor.
+
+LA columna dorsal tiene funciones de transmisión y reconocimiento sensoriales.
+
+(cuadro I-7). Función del sistema de la columna dorsal.
+
+Son de 2 tipos:
+a) Pasivos en el organismo
+(Diapasón en vibración, discriminación de dos puntos, tacto con una pieza de algodón) e transmite por la columna dorsal, pero casi toda la misma información viaja por vías paralelas, como el fascículo espinocervicotalámico; Por lo tanto, estos tipos de sesaciones se mantienen intactas al faltar la columna dorsal.
+
+b) Temporales o secuenciales añadidos a un indicio espacial
+(determinación de la dirección de líneas al ser dibujadas en la piel) es detectado por la columna dorsal; Tiene la función de transmitir a niveles superiores información de cambios en un estímulo periférico por un periodo.
+
+c) Los que no se pueden reconocer sin manipulación y activan la exploración por los dedos
+(detección de formas y patrones) solo son reconocidos por la columna dorsal.
+
+La columna dorsal también participa en formas de control motor.
+
+Muchos movimientos de las extremidades requieren la información sensorial, aferencias de retroalimentación que viajan por la columna dorsal.
+
+Esta información llega a la corteza motora del cerebro por el tálamo, por medio del núcleo ventral posterolateral, de donde se proyecta nosolo a la corteza sensorial somestésica primaria (el giro poscentral) sino también a la corteza motora primaria en el giro precentral.
+
+Además, la corteza sensorial primaria se proyecta a la corteza motora primaria.
+
+Los mecanorreceptores cutáneos de los miembros anteriores y traseros (llevan tacto, vibración, movimiento del pelo y presión) 
