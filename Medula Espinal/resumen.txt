@@ -264,4 +264,108 @@ Esta información llega a la corteza motora del cerebro por el tálamo, por medi
 
 Además, la corteza sensorial primaria se proyecta a la corteza motora primaria.
 
-Los mecanorreceptores cutáneos de los miembros anteriores y traseros (llevan tacto, vibración, movimiento del pelo y presión) 
+Los mecanorreceptores cutáneos de los miembros anteriores y traseros (llevan tacto, vibración, movimiento del pelo y presión) llevan los impulesos por las columnas dorsales (fascículos cuneiforme y el grácil) y el fascículo espinocervicotalámico.
+
+(imagen I-10). Representación de las diferentes vías para sensaciones cutáneas y propioceptivas de las extremidades anteriores y posteriores.
+
+Mientras que las sensacones propioceptivas (huso múscular, órgano tendinoso de Golgi y receptores auriculares) viajan con el fascículo grácil a nivel del núcleo dorsal de Clarke.
+
+De aquí salen del fascículo grácil, hacen sinapsis en el núcleo dorsal de Clarke y siguen las fibras espinocerebelosas dorsales, para terminar en el núcleo de Z (de Brodal y Pompeiano), este es un pequeño conjunto de neuronas en la parte más rostral del grácil en la médula oblongada.
+
+En estos puntos se unen las fibras al lemnisco medial para llegar al tálamo.
+
+B. Funículos laterales y anteriores
+Si bien el funículo posterior (véase #table-I-5) solo tiene un fascículo o sistema de fibras ascendentes, los laterales y anteriores tienen fascículos ascendentes y descendentes (#table-I-5 y #table-I-6).
+
+C. Fascículos ascendentes
+Los siguientes fascículos se originan ganglios de las raíces dorsales.
+
+a) Fascículo espinocerebeloso dorsal
+Transporta al cerebelo impulsos propioceptivos de receptores musculares, tendinosos y articulares.
+
+Los musculares viajan por las fibras Ia y II, mientras que los de los OT de Golgi viajan por las fibras Ib
+
+Los procesos centrales de neuronas en los ganglios de la raíz dorsal penetran la médula por la raíz dorsal, ascienden o descienden en el funículo posterior, unos segmentos antes de llegar al núcleo espinal, o tambien pueden llegar directamente.
+
+Las células nerviosas que forman este fascículo están ubicadas en el núcleo dorsal de Clarke (columna de Clarke, núcleo torácico columna o núcleo de Stilling).
+
+Este núcleo se limita a los segmentes entre C8 y L2, por lo que el fascículo no se encuentra bajo el segmento lumbar.
+
+Las fibras que, pues son parte del sistema, pero penetran bajo la L2, ascienden a L2, y aquí hacen sinapsis con las células en el núcleo.
+
+Asimismo, las fibras que vienen desde arriba del límite ascienden en el fascículo cuneiforme accesorio en la médula oblongada, que pues es casi lo mismo a lo que viene siendo el núcleo dorsal.
+
+(imagen I-11). Esquema de la médula espinal que señala la homología del núcleo cuneiforme accesorio y el núcleo dorsal de Clarke.
+
+Las fibras de este fascículo están laminadas en segmentos, de manera que las de las extremidades inferiores son superficiales.
+
+Estas fibras llegan al cerebelo por medio del pedúnculo cerebeloso inferior (cuerpo restiforme) y terminan en las porciones rostral y caudal del Vermis.
+
+(imagen I-12). Esquema que muestra la formación, el trayecto y la terminación de los fascículos espinocerebelosos dorsal (posterior) y ventral (anterior)
+
+El fascículo espinocerebeloso dorsal lleva al cerebelo información sobre la contracción muscular, fase, rapidez y fuerza de contracción.
+
+Las fibras de este fascículo vienen de las neuronas de la V y la VI y el núcleo dorsal de Clarke.
+
+b) Fascículo espinocerebeloso ventral
+Lleva impulsos de casi casi puros OTG por medio de aferentes Ib. Las fibras de la raíz dorsal para este fascículo hacen sinapsis en la V, VI y VII.
+
+Los axones de estas neuronas cruzan para formar éste fascículo, el cual asciende por toda la médula espinal, oblongada y puente antes de penetrar el cerebro contralateral por medio del pedúnculo cerebeloso superior (brachium conjunctivum).
+
+Por lo tanto, las fibras de este fascículo cruzan 2 veces, una en la médula espinal y otra justo ants de penetrar en el cerebelo.
+
+Casi todas las fibras de este fascículo terminan en el vermis y el lóbulo intermedio, especialmente ipsolateral a la extremidad de origen, pero también contralateral.
+
+Este fascículo manda información sobre la actividad interneuronal y la efectivdad de las vías descendentes.
+
+Ningun fascículo espinocerebeloso le manda información a la corteza, acaban en el cerebelo, por lo que son inconcientes.
+
+Aparte de estas dos, hay otras vías indirectas para comunicar el cerebelo con la médula.
+
+1) Vía espinoolivocerebelosa, con su estación intermedia en la oliva inferior de la médula oblongada.
+
+2) Vía espinorreticulocerebelosa, con una sinapsis intermedia en el núcleo reticular lateral de la médula oblongada.
+
+Los impulsos que pasan por estas vergas llegan al cerebelo con lag. Se dice que las directas condicionan al cerebelo para que lleguen las indirectas.
+
+c) Fascículo espinocervicotalámico (fascículo de Morin).
+Formado por procesos de ganglios de la raíz dorsal. Entran en la médula con fibras mielinizadas de la división medial de la raíz dorsal.
+
+Andan dentro del funículo posterior, varios segmentos antes de entrar en la materia gris del asta posterior para ahora si hacer sinapsis.
+
+Los axones de las neuronas del asta posterior ascienden en el funículo lateral hasta C2 o C3, donde hacen sinapsis con las del núcleo cervical lateral.
+
+Los axones de estos pinchis nucleos cruzan al funículo lateral opuesto y suben al tálamo (#image-C-10).
+
+El núcleo cervical lateral se organiza de forma somatotópica (como los de la columna posterior) recibe asimismo una aferencia de la corteza cerebral.
+
+Este fascículo explica porque hay cinestesia y tacto discriminativo, incluso cuando falla el funículo posterior (como te dije hace rato).
+
+(cuadro I-7). Función del sistema de la columna dorsal
+
+d) Fascículo espinotalámico lateral
+Está ubicado en un punto medial comparado con los fascículos anteriores.
+
+(imagen I-13). Esquema que muestra la formación del fascículo espinotalámico lateral.
+
+Está relacionado con la transmición del dolor y temperatura.
+
+Las fibras que forman este fascículo (C y A delta) igual tienen sus cuerpos en los ganglios de la raíz dorsal.
+
+Son amielínicas y mielinizadas finas, casi siempre ocupan la región ventrolateral de la raíz dorsal a su entrada en la médula espinal.
+
+Las fibras C son lentas, como a 0.5 o 2m/s. Las A delta van a 5 - 30 m/s.
+
+Las aferentes de la raóiz hacen sinapsis con las láminas de la I a la VI. Las A delta y C terminan en láminas I a III; además, las A delta terminan en la capa V profunda.
+
+Los axones de las neuronas de este fascículo en las láminas V a VIII, asi como algunos que procede de la I, cruzan al funículo lateral opuesto en la comisura blanca anterior, 1 o 2 segmentos arriba de la entrada, para formar el fascículo espinotalámico lateral; solo unas pocan no cruzan.
+
+En el fascículo cruzado, las fibras sacras se encuentran más lateral y las cervicales más medial.
+
+Además, las que llevan dolor van en la parte anteerior y las que llevan caor en una parte más posterior.
+
+(imagen I-14). Representación de la laminación segmentaria y modalidad de ésta del fascículo espinotalámico lateral. S, sacro; L, lumbar; T, torácico (dorsal); C, cervical. El área punteada señala fibras térmicas, mientras que la clara fibras de dolor.
+
+Las fibras suben hasta el tálamo, donde hacen sinapsis con el núcleo ventral posterolateral. De aquí se proyectan neuronas del 3er orden por medio del brazo posterior de la cápsula interna hacia la corteza somatosensorial primaria.
+
+(imagen I-15). Esquema de la formación, trayecto y terminación del fascículo espinotalámico lateral.
