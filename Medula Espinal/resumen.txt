@@ -119,3 +119,109 @@ Los grupos celulares de la médula se disponen en 10 zonas o láminas.
 (imagen I-6). Representación de la mitad de la médula espinal que muestra la localización de las láminas de Rexed.
 
 (cuadro I-4). Organización celular de la médula espinal.
+
+Las láminas I a IV están relacionadas con sensaciones exteroceptivas, mientras que las láminas V y VI se vinculan con sensaciones propioceptivas.
+
+La lámina VII funciona como relevo entre el mesencéfalo y el cerebelo.
+
+VIII modula la actividad motora, por medio de neuronas gamma.
+
+IX es la principal área motora de la médula espinal, con neuronas motoras alfa grandes y gamma pequeñas, dispuestas en columnas dorsolateral, ventrolateral, ventromedial y central).
+
+Los axones de las neuronas de IX inervan fibras musculares tanto extrafusales como intrafusales, alfa y gamma respectivamente.
+
+Las neuronas motoras alfa en la lámina IX de los segmentos C3 a C5 forman el núcleo del nervio frénico; Los axones de estas neuronas inervan el diafragma por lo que son escenciales para la respiración.
+
+Entre los segmentos S1, S2 a S4 aparece una columna suplementaria de neuronas motoras alfa en la lámina IX, el núcleo de Onuf (Onufrowicz), en el borde más ventral.
+
+El núcleo este se divide en un grupo celular dorsomedial, que inerva los músculos bulbocavernoso e isquiocavernoso; Un grupo ventrolateral, que inerva los esfínteres anal y uretral externos.
+
+La porción dorsomedial del núcleo de Onuf tiene más neuronas en los hombres. 
+
+Las neuronas alfa de la IX están organizadas de forma somatotópica, de manera que los músculos flexores son inervados por las neuronas dorsales, y los extensores por neuronas ventrales; Los músculos del tronco por la parte medial, y de las extremidades por la parte lateral.
+
+(imagen I-7). Esquema de la médual espinal que revela la organización somatotópica de neuronas motoras del asta ventral (lámina IX).
+
+Las neuronas motoras de la IX reciben aferencias de las raíces dorsales (para los reflejos espinales) y de las vías descendentes del control motor (process).
+
+Existen 2 tipos de neuronas alfa, tónicas y fásicas, pero no hay forma anatómica de diferenciarlas.
+
+a) Neuronas motoras álfa tónicas
+Se distinguen por un ritmo más bajo de descargas de impulsos y conducción axónica relantizada. Inervan los músculos lentos.
+
+b) Neuronas motoras alfa fásicas
+Muestran una conducción axónica rápida, inervan los músculos rápidos.
+
+También hay 2 tipos de neuronas gamma, estáticas y dinámicas, pero tampoco hay forma de diferenciarlas anatomicamente.
+
+a) Neuronas motoras gamma estáticas
+Se relacona con fibras intrafusales de cadena nuclear, que participan en la respuesta estática del huso muscular.
+
+b) Neuronas motoras gamma dinámicas
+Se vincula con el tipo de bolsa nuclear de fibra muscular intrafusal, la cual interviene en la reacción dinámica del huso.
+
+Además de las alfa y gamma, la IX contiene interneuronas. Entre ellas, la célula de Renshaw, que se interpone entre el axón recurrente colateral de una neurona motora alta y la dendrita o el cuerpo celular de la misma neurona alfa.
+
+El axón colateral de la alfa excita a la de Renshaw. El axón de la de Renshaw inhibe (recurrente) a la alfa origen y otras motoras.
+
+Por medio de esta retroalimentación una alfa puede influir en su actividad; Los axones de las de Renshaw se proyectan a las láminas IX, VIII y VII.
+
+La inhibición de la célula de Renshaw suprimen la eferencia motora de un conjunto particular de neuronas motoras y resaltan la eferencia de neuronas motoras activadas intensamente.
+
+Las células de Renshaw funcionan con glicina como neurotransmisor inhibidor.
+
+Las dendritas forman cerca del 80% del área receptiva de una neurona; De los 1,000 um del de longitud que tienen, solo el 1/3 proximal al cuerpo es la parte que contiene la mayor cantidad de sinapsis, por lo que es más eficaz para la recepción y transmisión de estímulos aferentes.
+
+La X rodea el conducto central y contiene la neuroglia.
+
+Las neuronas de la materia gris de la médula son principales e interneuronas.
+a) Principales
+Se clasifican en 2 categorías en base a su curso axónico:
+
+1. De fascículo (proyección) tienen axones que contribuyen a formar un fascículo, como el Núcleo Dorsal de Clarke, que forma el fascículo espinocerebeloso dorsal, y las neuronas del asta posterior, que forman el espinotalámico.
+
+2. Neuronas radiculares
+Sus axones contribuyen a formar la raíz ventral, como como las motoras alfa y gamma del asta anterior y neuronas atónomas (simpáticas y para simpáticas) en el asta interomedial y los segmentos S2 a S4.
+
+SUSTANCIA BLANCA
+Se organiza en los 3 funículos:
+1. Funículo posterior (dorsal)
+2. Funículo lateral
+3. Funículo anterior (ventral)
+
+Cada funículo tiene 1 o más fascículos.
+
+(cuadro I-5). Fascículos ascendentes de la médula espinal
+
+(cuadro I-6). Fascículso descendentes de la médula espinal
+
+Un fascículo está formado por fibras nerviosas que comparten un origen, destino y funciones comunes.
+
+Generalmente, el nombre indica el origen y destino; como lo es el espinocerebeloso (médula espinal -> cerebelo) o el corticoespinal (corteza -> médula).
+
+A. Funículo posterior
+Las fibras de este funículo participan en la cinestecia y el tacto discriminativo.
+
+La presencia o ausencia de las diferentes sensaciones de este funículo se prueban de la siguiente manera:
+
+1. La vibración, se esutida al colocar un diapasón en vibración sobre una prominencia ósea.
+
+2. La posición se valora al mover la punta del dedo de la mano o el pie del paciente, de forma dorsal y ventral, y pedirle al enfermo que identifique la porción de la parte que se movió.
+
+3. La discriminación de 2 puntos se estudia al pincar o tocar el paciente en 2 areas adyacentes. Normalmente, una persona puede reconocer 2 estímulos como distintos si la distancia es de al menos 5mm en las yemas y 10cm en la espinilla.
+
+4. El tacto se valora luego de poner una torunda de algodón en la piel.
+
+5. El reconocimiento de la forma se estudia al darle al paciente un objeto en la mano y que identifique el tamaño forma y textura.
+
+Las fibras nerviosas que forman el funículo posterior tienen sus cuerpos celulares en los ganglios de la raíz dorsal.
+
+Existen receptores periféricoa que contribuyen al sistema:
+
+a) Mecanoreceptores cutáneos (folículo piloso y receptores de tacto & presión) que transportan el tacto, vibración, movimiento del pelo y presión.
+
+b) Receptores propioceptivos (huso muscular, órgano tendinoso de Golgi y receptores articulares). Los receptores musculares son los receptores primarios que transportan la posición; Los articulares se relacionan conel señalamiento de movimiento articular, pero no con la posición de la articulación.
+
+Las fibras nerviosas del funículo posterior tienen una capa de mielina, y ocupan la parte dorsolateral de la raíz dorsal; Las que penetran la médula espinal bajo T6 están en forma medial en el funículo posterior y forman el fascículo grácil (fascículo de Goll); Las que penetran la médula arriba de T6 están más laterales y forman el fascículo cuneiforme (Columna de Bordach).
+
+Es por esto que las fibras nerviosas del funículo posterior se distribuyen en láminas o capas
