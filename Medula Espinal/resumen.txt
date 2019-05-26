@@ -242,7 +242,7 @@ Todas las fibras tienen sus cuerpos celulares en los ganglios de la raíz dorsal
 
 Algunas fibras emiten ramas que terminan en la materia gris del asta posterior, le confieren al funículo posterior su función de modificación sensorial; Funciona para inhibir dolor.
 
-LA columna dorsal tiene funciones de transmisión y reconocimiento sensoriales.
+La columna dorsal tiene funciones de transmisión y reconocimiento sensoriales.
 
 (cuadro I-7). Función del sistema de la columna dorsal.
 
@@ -362,6 +362,8 @@ Los axones de las neuronas de este fascículo en las láminas V a VIII, asi como
 
 En el fascículo cruzado, las fibras sacras se encuentran más lateral y las cervicales más medial.
 
+(imagen I-19). Esquema que muestra la organización somatotópica de fibras en el fascículo corticoespinal lateral. C, cervical; T, torácico; L, lumbar; S, sacro.
+
 Además, las que llevan dolor van en la parte anteerior y las que llevan caor en una parte más posterior.
 
 (imagen I-14). Representación de la laminación segmentaria y modalidad de ésta del fascículo espinotalámico lateral. S, sacro; L, lumbar; T, torácico (dorsal); C, cervical. El área punteada señala fibras térmicas, mientras que la clara fibras de dolor.
@@ -369,3 +371,397 @@ Además, las que llevan dolor van en la parte anteerior y las que llevan caor en
 Las fibras suben hasta el tálamo, donde hacen sinapsis con el núcleo ventral posterolateral. De aquí se proyectan neuronas del 3er orden por medio del brazo posterior de la cápsula interna hacia la corteza somatosensorial primaria.
 
 (imagen I-15). Esquema de la formación, trayecto y terminación del fascículo espinotalámico lateral.
+
+Hay otras vías que llevan dolor, una es multisináptica vinculada con el sistema reticular y una vía espinotectal.
+
+También existe uan aferencia inhibidora hacia el asta posterior, con fibras gruesas mielinizadas de la raíz dorsal y la columna posterior.
+
+La teoría de compuerta del dolor de Melzack y Wall, indican que en la médula espinal penetran 2 impulsos aferentes relacionados con el dolor.
+
+Una aferencia llega como fibras pequeñas tónicas y se adaptan lentamente a un flujo continuo de actividad, lo que conserva la compuerta.
+
+Los impulsos que discurren por estas fibras activan un mecanismo exitador que incrementa el efecto de los impulsos que van llegando.
+
+La segunda aferencia viene por fibras gruesas bien mielinizadas, fáscicas, rápidamente adaptadaz y que se activan como respuesta a un estímulo.
+
+Ambos tipos de fibras se van a la II, lo que sugiere que esta es la lámina de control modular para el dolor.
+
+Las fibras delgadas inhiben neuronas en esta lámina, mientras que las gruesas las fascilitan.
+
+Los 2 tipos de fibras se proyectan a la I y de la IV a la VIII, donde se localizan las células del fascículo.
+
+Las delgadas y gruesas facilitan neuronas en estas láminas. Pero pérate, los axones de las neuronas en la II tienen un efecto inhibidor en axones pequeños y grandes, los cuales se proyectan en neuronas del fascículo. 
+
+(imagen I-16). Representación de la teoría del control de la compuerta del dolor.
+
+Estas relaciones diferentes se pueden resumir de la siguiente manera:
+
+1) Las fibras tónicas de adaptación lenta que tienden a mantener la compuerta abierta llevan una actividad constante, la cual precede a un estímulo.
+
+2) Un estímulo periférico activa fibras pequeñas y grandes. La descarga de las grandes activa inicialmente las células del fascículo (células T) por medio de la vía directa y posteriormente cierra parcialmente la compuerta por su acción através de la II (facilitación de inhibición presináptica).
+
+3) El equilibrio entre la activación de fibras grandes y pequeñas determina el estado de la compuerta.
+
+Si el estímulo es prolongado, se usan fibras grandes, lo que da como resultado un aumento de la actividad de fibras pequeñas que abre aun más la compuerta y aumenta la actividad de las células T.
+
+Sin embargo, si se eleva la actividad de las fibras grandes por medio de un estímulo apropiado (vibración) se cierra la compuerta y disminuye la actividad de las células T.
+
+La inhibición ocurre por impulsos presinápticos y postsinápticos de la periferia, asi como influencias corticales descendentes.
+
+Otros detalles interesantes del tema son:
+
+1) Hay 2 tipos de receptores de dolor, nociceptores unimodales, los que responden a estímulos nociceptivos, y nociceptores polimodales, de estímulos nociceptivos, químicos y mecánicos.
+
+2) Hay 3 tipos de neuronas espinotalámicas en el asta dorsal: mecanorreceptores de umbral bajo (VI a VII), nociceptores específicos nociceptivos de umbral alto (I) y neuronas de límite dinámico amplio (IV y V) que le corresponden a la estimulación por mecanorreceptores y nociceptores.
+
+Las neuronas de límite dinámico amplio reciben impulsos de mecanorreceptores de umbral bajo y nociceptores de umbral alto, y a lo mejor hasta se relacionan con el dolor visceral y referido.
+
+3) Solo las nociceptoras se inhiben por fibras serotoninérgicas del núcleo del rafe magno de la médula oblongada.
+
+4) En el asta dorsal se encuentran los siguientes neurotransmisores: noradrenalina y serotonina en la sustancia gelatinosa y sustancia P, somatostatina y encefalinas en las láminas I a III.
+
+La sustancia P es excitadora, mientras que las encefalinas son inhibidoras.
+
+5) Las fibras C que entran por la raíz dorsal terminan en neuronas de las láminas I, II y III. Excitan neuronas por medio de sinápsis axodendríticas.
+
+Al mismo tiempo, los axones de la II inhibien neuronas de la I por medio de sinapsis axosomáticas.
+
+6) Las fibras A delta forman sinapsis excitadoras en neuronas de la II y IV.
+
+Algunas fibras temrinan en la I, III y V.
+
+Ya que algunas de la II inhiben a las de la I, la estimulación de fibras A delta puede inhibir la I.
+
+Esto ocurre cuando se reduce el dolor de una cortada en el dedo por presión local (lo que estimula las fibras A delta).
+
+7) Cerca de 24% de fibras sacras y 5% lumbar en el fascículo espinotalámico lateral se proyectan al tálamo del mismo lado.
+
+E. Fascículo espinotalámico anterior.
+Este lleva tacto ligero.
+
+Las fibras de este fascículo hacen sinapsis de la VI a la VIII.
+
+Los axones de destas laáminas cruzan la comisura blanca anterior en varios segmentos, se reúnen en los funículos lateral y anterior y así forman el fascículo.
+
+Su organización somatotópica y curso es parecida a la del Fascículo EspinoTalámico Lateral
+
+a) Lleva impulsos de dolor así como de tacto.
+
+b) Algunas fibras ascienden ipsolateral hasta el mesencéfalo, donde cruzan la comisura posterior y se proyectan al tálamo, mientras que otras van a la materia gris periacueductal en el mesencéfalo.
+
+c) Llevan sensaciones dolorosas no discriminativas aversivas y motivacionales, a diferencia que la espinotalámico lateral, que pues lleva discriminativas bien localizadas (no es su especialidad pues).
+
+A este y al espinotalámico lateral se les llama sistema anterolateral.
+
+F. Otros fascículos ascendentes
+Otros que no valen verga incluyen el espinoolivar, espinotectorial y espinocortical, se dice que tienen mecanismos de feedback.
+
+4. FASCÍCULOS DESCENDENTES
+Todos los ascendentes se originaban de la pinchi raíz dorsal, pero los descendentes vienen de varios lados (#table-I-6).
+
+I. Corticoespinal
+Es el más desarrollado en primates, especialmente en el hombre.
+
+Las células de este fascículo nacen de la corteza; La motora primaria (4) y premotora (6) forman el 80% del fascículo.
+
+Los axones del fascículo vienen bajando del neuroeje .
+
+(imagen I-17). Esquema de la vía corticoespinal
+
+Este fascículo está integrado con casi 1,000,000 de axones en cada lado alv.
+
+En la parte caudal de la médula oblongada, la mayor parte de las fibras cruzan para formar el fascículo corticoespinal lateral, que está ubicado en el funículo lateral de la médula espinal.
+
+(imagen I-18). Representación de las tres divisiones del fascículo corticoespinal y sus patrones de terminación en la médula espinal.
+
+Mas hay un componente cruzado del fascículo corticoespinal anterior, ubicado en la parte posterolateral del funículo anterior, cerca del asta ventral.
+
+El fascículo corticoespinal lateral cruzado se va extender por toda la médula espinal.
+
+Que tan extenso es el compiinente directo del fascículo corticoespinal anterior depende, lo cual es variable.
+
+Cuando es grande, corre por toda la médula espinal.
+
+El componente cruzado del FCEanterior se prolonga nadamás hasta C6 o C7.
+
+Cerca de 2 a 3% de las fibras permanece sin cruzar en el funículo lateral y modifica neuronas motoras ipsolaterales.
+
+Casi todas las fibras de este fascículo son de pequeño calibre, de 1 a 4um de diámetro.
+
+Solo cerca del 3% de la población posee axones con gran calibre (10 um).
+
+Estas fibras provienen de celulotas de Betz en la corteza motora.
+
+En la médula, algunas fibras se proyectan a las láminas de la IV a la VII.
+
+Tamién hay una proyección directa de poquitas fibras en neuronas motoras (alfa y gamma) en la IX; Son impulsos facilitadores.
+
+Las fibras del fascículo corticoespinal lateral acaban en neuronas motoras del asta ventral en la parte LATERAL, inervando la musculatura distal de las extremidades.
+
+Las fibras de corticoespinal anterior acaban en neuronas de la parte medial del asta ventral, las que inervan el cuello, tronco y musculatura proximal de la extremidad.
+
+La estimulación prende las motoras, que inervan los músculos y pues esto ocasiona la contracción concurrente de extrafusales e intrafusales.
+
+Esta contracción optimiza la sensibilidad del huso para feedback.
+
+La terminación del fascículoen las láminas IV a VII (que reciben impulsos sensoriales de la periferia) indica que el fascículo tiene efecto modulador de aferencias sensoriales también.
+
+Esto porque hay fibras que terminan en aferentes primarias y neuronas sensoriales de relevo en el asta posterior.
+
+LAs terminales de este fascículo ejercen una inhibición presináptica en algunas aferentes prmiarias, y una inibición o excitación postsináptica de neuronas sensoriales de relevo.
+
+La inhibición presináptica es lo que determina el tipo de data (headers) que llegará a niveles más altos; Hasta antes de que esta información se reeleve a neuronas sensoriales ya bien.
+
+La inhibicón o excitación postsinápticas (body) de las nuronas sensoriales de relevo en el asta dorsal modulan la actividad de las neuronas que participan en la transmision de datos somestéticos y propiceptivos al tálamo y la corteza cerebral.
+
+Este fascículo es escencial para la habilidad y presición del moviento de los dedos de la mano.
+
+Pero, no es posible inicar estos movimientos por si mismos. Se necesitan otras fibras corticofugales.
+
+Tampoco es que necesites tener este fascículo intacto para poder producir un movimiento voluntario, pero si se necesita para la rapidez y agilidad.
+
+También sirve como modulador sensorial, por lo que selecciona las modalidades sensoriales que llegan hasta la corteza cerebral.
+
+II. RUBROESPINAL
+Fibras que vienen de los 2 tercios posteriores magnocelulares del núcleo rojo, en el mesencéfalo.
+
+Estas fibras cruzan en la decusación tegmentaria ventral del mesencéfalo, y descienden por todo el neuroje para llegar al funículo lateral de la médula, cerca del fascículo corticoespinal.
+
+(imagen I-20). Representación compuesta del origen, trayecto y terminación del fascículo rubroespinal.
+
+Las fibras terminan en las mismas laminas que el corticoespinal, y facilitan neuronas motoras y flexoras.
+
+Debido a la similitud de donde terminan estas madres, y si consideramos que el nucleo rojo recibe aferencias de la corteza, se dice que el rubroespinal es como un corticoespinal indirecto.
+
+Ambos fascículos forman la vía dorsolateral del movimiento, donde el corticoespinal lo incia y el rubroespinal corrige errores.
+
+Su importancia fue disminuyendo con la evolución. En el hombre, la principal eferencia del núcleo rojo es la oliva inferior.
+
+III. VESTIBULOESPINAL LATERAL
+Esta fascículo se origina en el núcleo vestibular lateral del puente.
+
+Desde aqui van directo sin cruzar, ocupan una posición en el funículo lateral de la médula.
+
+(imagen I-21). Esquema compuesto del origen, trayecto y terminación de fascículo vestibuloespinal lateral.
+
+Las fibras terminan en las láminas VII y VIII, con algunas terminaciones directas en las dendritas de las neuronas motoras alfa ahi mismo. Los impulsos prenden las neuronas extensoras que conservan la postura erguida.
+
+IV. VESTIBULOESPINAL MEDIAL
+Viene del núcleo vestibular medial.
+
+Desde el orien las fibras se unen con los fascículos longitudinales mediales el ipsolateral y el contralateral, bajan en el funículo anterior y terminan en la VII y VIII.
+
+(imagen I-22). Representación del origen, trayecto y terminación del fascícuo vestibuloespinal medial.
+
+Se supone que tienen un efecto facilitador para las neuronas flexoras (en vez de las extensoras).
+
+Este fascículo tiene una función para el control de la posición de la cabeza.
+
+V. FASCÍCULOS RETICULO ESPINALES
+
+(imagen I-23). Esquema de los orígenes y terminaciones de los fascículos reticuloespinales pontino y de la médula oblongada.
+
+Se originan en la fomración reticular del puente y la médula oblongada.
+
+El del puente está ubicado en el funículo anterior, y el de la médula oblongada en el funículo lateral.
+
+Ambos bajan en sentido ipsolateral, pero tantitos se cruzan.
+
+El pontino facilita extensoras motoras, y el oblongado flexoras.
+
+Las fibras del pontino terminan en la VII y VIII, y las de la oblognada en la VII.
+
+Algunas oblongadas interactuan con dendritas de motoras de la VII y la VIII.
+
+La idea de este fascículo es modificar la actividad sensorial por su interacción con neuronas espinotalámicas en el asta dorsal.
+
+VI. FASCÍCULO TECTOESPINAL
+
+(imagen I-24). Representación del origen y terminación del fascículo tectoespinal.
+
+Nace en el colículo superior del mesencéfalo. Sus fibras cruzan en la decusación tegmentaria dorsal del mesencéfalo y bajan por el funículo anterior de la médula espinal cervical.
+
+Terminan en la VI, VII y VIII. Dicen que sirve para el giro de la cabeza como parte de una estimulación ligera.
+
+VII. VÍA AUTÓNOMA DESCENDENTE
+Vienen mayormente del hipotálamo. Son pequeñitas y siguen una vía polisináptica, dispersas difusamente en el funículo anterolateral.
+
+Se proyectan en neuronas de la columna intermediolateral.
+
+VIII. VÍAS MONOAMINÉRGICAS DESCENDENTES
+Son vías que descienden por el funículo lateral y anterior ipsolateral y contralateral al ciclo de origen:
+
+a) serotoninérgicas del núcleo del rafe de la médula oblongada
+
+b) noradrenérgicas del núcleo del locus cereleus en el puente rostral y mesencéfalo caudal
+
+c) encefalinércias de la materia gris periacueductal en el mesencéfalo
+
+
+NEUROTRANSMISORES Y NEUROPÉPTIDOS DE LA MÉDULA ESPINAL
+Casi todas las neuronas sensoriales del asta dorsal liberan glutamato como neurotransmisor excitador de acción rápida. No le hace que modalidad sensorial sea.
+
+Además de este, otras neuronas pequeñits en el asta dorsal usan neuropéptidos, especialmente:
+
+a) sustancia P
+b) somatostatina
+c) Péptido intestinal vasoactivo
+
+para transmisiones sinápticas lentas.
+
+Otros neurotransmisores y neuromoduldores en la médula espinal incluyen:
+
+a) noradrenalina
+b) serotonina
+c) encefalina
+d) neuropéptido Y
+e) péptido de isoleucina de histidilo y colecistocinina
+
+Hay más de estos en el asta dorsal, y se van haciendo menos hasta el asta ventral.
+
+La región lumbosacra es la que tiene más neuroéptidos comparado con otras regiones.
+
+La sustancia P es el transmisor de aferentes nociceptivas y no nociceptivas primarias del asta dorsal.
+
+Existe una participación de este neuropéptido en la transmisión del dolor.
+
+LA metancefalina y somatostatina en el asta dorsal inhiben la liberación de sustancia P de aferentes primarias, llevandose la actividad en neuronas del asta dorsal.
+
+El péptido intestinal vasoactivo es el principal transmisor en aferentes viscerales (super importante en las pélvicas) y se localiza abundantemente en los segmentos lumbosacros.
+
+La sustancia P, metaencefalina y colecistocinina en la zona intermedia son terminales de los núcleos del rafe caudales del tallo cerebral.
+
+La sustancia P y serotonina de los núcleos del rafe caudales tienen una participación en la modulación de actividad de nueronas del asta anterior.
+
+La noradrenalina del locus ceruleus tiene un efecto inibidor de la actividad nociceptiva del asta dorsal.
+
+
+REFLEJOS ESPINALES
+Las neuronas motoras de la médula se prenden por impulsos de la periferia como reflejos, y por impulsos superiores que modifican reflejos locales.
+
+A. Reflejo miotático (estiramiento)
+
+(imagen I-25). Esquema de los componentes del reflejo de estiramiento. El estiramiento del músculo (1) activa fibras nerviosas sensoriales, las (2) que activan a su vez neuronas motoras de forma monosináptica. Los axones de las neuronas motoras activadas (3) hacen sinapsis en las fibras musculoesqueléticas y producen contracción.
+
+Estirar un músculo activa el huso muscular de la fibra intrafusal.
+
+Los impulsos de este influyen de manera monosinpa´tica por las fibras Ia en neuronas motoras alfa homónimas en el asta anterior de la médula espinal.
+
+Los impulesos que viajan por los axones de estas neuronas llegan al músculo esquelético estirado y dan lugar a la contracción.
+
+Las aferentes Ia también hacen conexiones excitadoras monosinápticas directas con motoras alfa, las que inervan músculos con una acción sinérgica al músculo en que se origino la fibra Ia.
+
+LA actividad en las fibras ademas injibe de forma disináptica ls neuronas motoras que inervan los antagonistas, lo que facilita la contracción del músculo homónimo.
+
+Se pueden producir reflejos en los siguientes sitios:
+
+a) Reflejo bicipital
+Al golpear el tendóndel ´biceps, se contrae tras flexionar el codo.
+
+b) Reflejo tricipital
+Gopear el tendón del tríceps, lo contrae y extiende la articulación del codo.
+
+c) Reflejo radial
+Golpear el tendón del supinador largo en la muñeca hace que se contraiga y se flexione la articulación de la muñeca.
+
+d) Reflejo rotuliano (cuadriceps)
+Se gopea el t. del cuadriceps femoral en la rótula, extiende la articulación de la rodilla.
+
+e) Reflejo del tendón de aquiles (aquileo)
+Se golpea el tendón del gastrocnemio en el tendón de aquiles, lo contrae y causa flexión plantar del tobillo.
+
+B. Reflejo miotático inverso
+
+(imagen I-26). Representación de los componentes del reflejo miotático inverso
+
+La tensión intensa en un músculo por estiramiento o contracción estimula las terminacinoes nerviosas en su OTG.
+
+Los impulsos de estos OTG siguen por las fibras Ib, se proyectan en neuronas inhibidoras, que actuan sobre neuronas motoras alfa que inervan el músculo bajo tensión.
+
+Esto resulta en la relajación del músculo.
+
+De igual manera, la actividad Ib facilita las nueronas motoras que inervan el antagonista.
+
+Hay 3 mecanismos de control, el que controla la longitud, la cual es dependiente de las terminaciones anuloespinales de la fibra intrafusal, es sensible a cambios de longitud y media sus efectos por las Ia.
+
+OTro mecanismo es el de la tensión a cargo de los OTG, sensible a la tensión en los músculos y funciona por fibras Ib.
+
+El último mecanismo es el control de seguimeinto, por el que la longitud de la fibra extrafusal sigue la longitud de la intrafusal, y se media del asa gamma.
+
+C. Reflejo flexor
+
+(imagen I-27). Esquema de los componentes del reflejo flexor.
+
+Este reflejo se induce por nocicepción, aunque también los del tacto ligero (pero mas poquito).
+
+Este reflejo sirve para alejar la parte lesionada del origen del dolor, por lo que se llama de retiramiento.
+
+Desde los receptores, los impulsos van por las fibras del grupo III a la médula, aqui forman relaciones polisinápticas (unas 3 o 4 interneuronas) con varias motoras.
+
+Esto sirve pa dos cosas: a) facilitación de neuronas motoras flexoras ipsolaterals y b) inhibición de neuronas motoras extensoras ipsolaterales.
+
+El flujo de las neuronas motoras activadas causa una contracción de los flexores y relajación de los extensores antagonistas de la parte estimulada del cuerpo.
+
+D. Reflejo de extensión cruzada
+
+(imagen I-28). Representación de los componentes del reflejo extensor cruzado.
+
+Es un producto accesorio del de flexión.
+
+Impulsos de un estimulo nociceptivo cruzan la comisura anterior y forman relaciones multisinápticas con neuronas flexoras y extensoras.
+
+Pero, su efecto es inverso al de flexión, causa: a) facilitación de neuronas motoras extensoras y b) inhibición de neuronas motoras flexoras.
+
+Por lo que la extremidad contralateral a la parte estimulada del cuerpo.
+
+En consecuencia, como respuesta a un estimulo nociceptivo, se flexiona la extremidad ipsolateral y se extiende la contralateral para prepararse para un retiro.
+
+Como reacción a un estimulo nociceptivo a una extremidad del miembro trasero, se retira la extremidad estimulada, se extiende la extremidad caudal opuesta y el miembro anterior ipsolateral y flexiona el miembro anterior contralateral.
+
+
+VÍA DE MICCIÓN Y CONTROL VESICAL
+La vejiga tiene inervación eferente por 3 orígenes:
+
+a) Inervación simpática por el nervio hipogástrico
+
+b) Inervación parasimpática por el pélvico
+
+c) Inervación somática por el pudendo
+
+Las neuronas preganglionares sináoticas están en la columna celular intermediolateral de la médula lumbar alta.
+
+Los axones preganglionares, salen de la médula por la raíz ventral, y hacen sinapsis en los ganglios sinápticos paravertebrales y preaórticos.
+
+Las fibras postganglionares siguen en el nervio hipo hacia elos músculos lisos de la vejiga y esfinter uretral interno.
+
+Las neuronas preganglionares parasimpáticas están en la columna celular parecida a la intermediolateral, entre S2 y S4.
+
+Axones preganglionares, unen los nervios esplénicos pélvicos (erectores) a ganglios terminales (vesicales) e inervan músculos lisos de la vejiga y esfinter uretral interno.
+
+Las neuronas somáticas son motoras en la parte ventral-ventromedial del asta anterior, de S2 a S4 (núcleo de Onuf).
+
+Los axones siguen con la raíz ventral, se unen al puendo e inervan el uretral externo.
+
+Las aferencias de la vejiga penetran la médula por medio de los mismos 3 nervios.
+
+Las aferentes simpáticas por el hipogástrico, entran a la médula a nivel lumbar superior y se extienden rostral hasta T4, pero la mayoría está en lumbar superior y torácico bajo.
+
+LAs parasimpáticas siguen los nervios pélvicos y entran a la médula entre S2 y S4.
+
+LAs somáticas viajan por los pudendos y entran en la médula de S2 a S4.
+
+El llenado se acompaña de actividad tónica en las neuronas impáticas y el núcleo de Onuf.
+
+Directamente, las neuronas simpáticas dan como resultado la relajación del detrusor y, directamente, contracción del esfinter uretral interno (al inibir las células del ganglio parasimpático).
+
+El vaciamiento se acompaña de inhibición del flujo de salida simpático, activación del parasimpatico (contraer el detrusor) e inhibición del núcleo de Onuf (relajar el esfinter externo).
+
+(cuadro I-8). Control de la vejiga urinaria por la médula espinal; Neuronas simpaticas, parasimpáticas y somáticas (de Onuf) en el músculo detrusor, esfinter interno, células del ganglio vesical y el esfínter externo.
+
+Las vías descendentes para la micción vienen por el funículo lateral, casi casi ventral con el ligamento dentado y FCEL.
+
+Actúan en el inicio y la interrupción de la micción, y la inhibición de la actividad independiente del centro vesical sacro.
+
+Todavía no se sabe bien que pedo con los fascículos corticoespinales para controlar las contracciones del esfinter externo y vejiga.
+
+

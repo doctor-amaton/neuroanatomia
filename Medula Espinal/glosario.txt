@@ -22,3 +22,36 @@ Localización precisa del taco, incluida la discriminación de 2 puntos.
 
 Diapasón.
 Un resonador acústico con la forma de un tenedor con 2 puntas, moldeado de una barra con forma de U de metal eslástico. Su vibración es constante.
+
+Neuroeje.
+Tallo cerebral y médula espinal
+
+Corticofugales.
+Que se originan en la corteza
+
+Espasticidad.
+Resistencia a la fase inicial del movimiento pasivo de una extremidad o un grupo muscular.
+
+Reflejos Miotáticos Hiperactivos
+Respuesta exagerada de la sacudida rotuliana y otros reflejos tendinosos profundos.
+
+Signo de Babinski.
+Reflejo flexor anormal en el que un golpe de la superficie externa de la planta del pie sucita dorsiflexión del dedo gordo del pie y separación de otros dedos.
+
+Clono.
+Contracción alternativa de músculos antagonistas, lo que resulta en movimientos de extensión y flexión.
+
+Miosis.
+Pupila pequeña
+
+Seudoptosis.
+Caida mínima del párpado
+
+Anhidrosis.
+Falta de sudación
+
+Enoftalmos.
+Retracción del globo ocular
+
+Nociceptivo.
+De percepción de dolor
