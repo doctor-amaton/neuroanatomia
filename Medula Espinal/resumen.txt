@@ -756,7 +756,7 @@ Directamente, las neuronas simpáticas dan como resultado la relajación del det
 
 El vaciamiento se acompaña de inhibición del flujo de salida simpático, activación del parasimpatico (contraer el detrusor) e inhibición del núcleo de Onuf (relajar el esfinter externo).
 
-(cuadro I-8). Control de la vejiga urinaria por la médula espinal; Neuronas simpaticas, parasimpáticas y somáticas (de Onuf) en el músculo detrusor, esfinter interno, células del ganglio vesical y el esfínter externo.
+(cuadro I-8). Control de la vejiga urinaria por la médula espinal; Neuronas simpaticas, parasimpáticas y somáticas (de Onuf) en el músculo detrusor, esfinter interno, células del ganglio vesical y el esfínter externo. +, facilitador; -, inhibidor
 
 Las vías descendentes para la micción vienen por el funículo lateral, casi casi ventral con el ligamento dentado y FCEL.
 
@@ -764,4 +764,144 @@ Actúan en el inicio y la interrupción de la micción, y la inhibición de la a
 
 Todavía no se sabe bien que pedo con los fascículos corticoespinales para controlar las contracciones del esfinter externo y vejiga.
 
+Las vías ascendentes que se relacionan con la micción siguen el mismo funículo lateral, ventral al ligamento dentado, en la región del fascículo espinotalámico. Actúan en la persepción consciente de las ganas de hacer pipí.
+
+Aunque las neuronas motoras de la vejiga y el esfinter estén en la médula, la coordinación de micción y almacenamiento se lleva acabo en puente.
+
+Personas con una lesión medular arriba del nivel sacro tienen dificultad para orignar porque, al querer orinar, se contrae tanto la vejiga como el esfiner (se cierra) (disinergia detrusor-esfinter).
+
+El área de Berrington en el puente se proyecta a neuronas autónomas sacras (motoras vesicales parasimpáticas entre S2 y S4).
+
+El área pontina descrita por Barrington se conoce como el centro pontino de la micción (núcleo de Barrington, región M).
+
+HAy otra área (L) ventral y lateral al área de Barrington, se proyecta al núcleo de Onuf. Es importante al llenar la vejiga y se denomina centro pontino de la continencia.
+
+Los datos sobre el llenado de vejiga viaja por los nervios hipogástrico y pélvico a neuronas autónomas en la médula lumbosacra, que emiten aferentes secundarias que ahora si van por el funículo lateral, y el tegmento lateral del tallo cerebral hasta la materia gris periacueductal en el mesencéfalo.
+
+Al llenarse la vejiga hasta donde ya no manches, la materia gris periacuerductal prende las neuronas del núcleo de Barrington (M) que prenden las neuronas parasimpáticas preganglionares sacras (S2 a S4) e iniben el núcleo de Onuf por medio de GABAergicas.
+
+El trabajo entre estos 2 grupos ganglionares resulta en la contracción de la pared vesical, relajación del esfinter uretral externo y micción.
+
+Además del puente y mesncéfalo, también interviene el hipotálamo y la corteza.
+
+LAs áreas corticales que se relacionan con la micción son el giro frontal inferior derecho y el giro del cíngulo anterior derecho.
+
+También hay actividad en el tegmento pontino dorsal derecho y el giro frontal inferior derecho durante la micción.
+
+Al retener la micción, se presenta una disminución en el flujo sanguíneo del giro del cíngulo anterior derecho.
+
+Por lo que se infiere que los sitios cortical y pontino de la micción son más activos en el lado derecho.
+
+(imagen I-29). Esquema del control segmentario y suprasegmentario de la micción y continencia. + facilitdor; - inhibidor; (1) vías de la micción; (2) vías de la continencia. Líneas azules, eferentes; líneas negras, aferentes. AGP: materia gris periacueductal.
+
+
+RESUMEN DE LAS FUNCIONES DE LA MÉDULA ESPINAL
+La médula se organiza en 3 zonas funcionales mayores: asta dorsal, zona intermedia y asta ventral.
+
+a) asta dorsal 
+recibe información sensorial, que proviene de receptores de la superficie cutánea (exteroceptivas).
+
+La composición celular varía dependiendo de la extensión de sus campos de recepción y la especificdad de la modalidad recibida.
+
+La información que se recibe de la periferia no se revela solo en el asta dorsal, sino que también es modificada por las diversas aferencias periféricas recibidas, así como influencias descendentes de la corteza y áreas subcorticales.
+
+El caso es que, con toda esta interacción en el asta dorsal, se ejerce la mediación de neuronas motoras en la lámina IX, interneuronas o fascículos ascendentes.
+
+b) zona intermedia
+recibe de igual manera aferencias de la raíz y el asta dorsales, así como de áreas corticales y subcorticales.
+
+La información recibida en este sitio se integra y modifica antes de proyectarse a otro lado.
+
+c) Asta ventral
+Tiene aferencias de la raíz dorsal (reflejas monosinápticas), asta dorsal, zona intermedia y fascículos descendentes.
+
+Los fascóculos estos influyen en neuronas motoras directa o indirectamente por medio de interneuronas de la zona intermedia.
+
+Faciliitan selectivamente neuronas motoras flexoras (fascículos corticoespinales, rubroespinales, vestivuoespinales mediales y reticuloespinales de la médula oblongada) o neuronas extensoras (vestibuloespinal lateral y reticuloespinal pontino).
+
+LA eferencia del asta ventral se viene por medio de neuronas motoras alfa para influir en el músculo estriada o de neuronas famma ara las fibras intrafusales.
+
+
+IRRIGACIÓN SANGÚINEA
+La médula se irriga por medio de las siguientes arterias:
+
+a) Subclavia
+Por medio de las ramas vertebral, cervical ascendente, tiroidea inferior, cervical profunda e intercostales superiores.
+
+b) Aorta
+Por las arterias intercostales y lumbares
+
+c) Ilíaca interna
+Ramas iliolumbar y sacra lateral.
+
+La subclavia irriga la médula cervica y los 2 segmentos torácicos superiores; el resto de la médula torácica recibe riego de las intecostales.
+
+La lumbosacra es regada por las intercostales, que proviene de la lumbar, iliolumbar y sacra lateral.
+
+LAs intercostales irrigan con ramas segmnetarias a la médula espinal hasta el nivel del primer segmento lumbar de la médula.
+
+La arteria más grande, la radicular ventral mayor, penetra la médula entre T8 y L4.
+
+Esta artwria también se conoce como arteria magna o de Adamkiewicz, surge en el lado izquierdo y es posible que ocupe la mayor parte de la perfusión de la mitad inferior de la médula.
+
+Las vertebrales dan lugar a las espinales anterior y posterior en la cavidad craneal.
+
+Las dos espinales anteriores se unen y asi forman una arteria espinal anterior, la cual desciende en la fisura media anterior de la médula espinal.
+
+Las arterias espinales posteriores, que son más pequeñas, se mantiene separadas y bajan por los espacios posterolaterales de la médulaa.
+
+Las demas arterias mandan ramas que entran en los agujeros intervertebrales, penetrando la vaina dural y dividiendose en ramas anterior y posterior (Radiculares) que van con las raíces nerviosas.
+
+Estas arterias contribuyen a formar las 3 arterias principales de la medula:
+1) espinal anterior
+2) espinal posterior 1
+3) espinal posterior 2
+
+Ya que la mayor prte de las radiculares que forman la anterior son pequeñas, la irrigación depende de las 4 a 10 arterias grandes, de las cuales 1 o 2 están en la región cervical (C6 casi siempre), 1 o 2 en la torácica superior y 1 o 3 en la torácica inferior y lumbosacra, una de las cuales forma la de Adamkiewicz.
+
+En contraste, las arterias espinales posteriores reciben de 10 a 20 arterias radiculares bien desarrolladas.
+
+En la médula lumbosacra, las radiculares posteriores son vestigiales, no importan.
+
+Hay anastomosis entre las espinales anterior y posterior en un plano caudal, alrededor de la cola de caballo. En cada segmento hay pocas anastomosis.
+
+La arteria epsinal anterior proyecta una rama del surco en la fisura mediana anterior. Esta gira a la derecha o izquierda para penetrar la médula espinal.
+
+Solo en la lumbar y sacra hay ramas derechas e izquierda. Las artwerias del surco son mas en número en la lumbar y menos en la torácica.
+
+Estas arterias riegan la materia gris anterior e intermediolateral, la materia gris central y la columna de Clerke.
+
+Osea pos toda la sustancia gris menos el asta dorsal.
+
+También perfunden casi toda la sustancia blanca de lso funículos anterior y lateral.
+
+Por lo tanto, los 2/3 anterior de la médula reciben riego de la espinal anterior.
+
+El tercio que queda, reciben suministro de las 2 arterias espinales posteriores.
+
+Al borde externo de la médula lo irrigan las ramas coronales que nace de la espinal anterior, pasan alrededor de la médula y se anastomosan con las ramas espinosas psoteriores.
+
+(imagen I-30). Representación del riego segmentario de la médula espinal.
+
+Algnunas partes de la médula son más vulnerables a alteraciones del flujo sanguíneo.
+
+LOs más sensibles son T1 a T4 y L1, son las regiones que son regadas de 2 origenes diferentes.
+
+Por ejemplo, de T1 a T4 la espinal anterior se vuelve pequeñita y sus ramas ya no cascan para el riego.
+
+Es por esto que esta sección depende de las ramas radiculares de las arterias intercostales; Si se alteran, es posible que los segmentos ya no tengan riego, lo que causaría un daño a los segmentos afectados.
+
+El drenaje venoso de la médula es lo mismo pero con tantitas diferencias:
+
+a) La red venosa es más densa en la parte posterior, a diferencia de las arterias que es más densa en la anterior.
+
+b) Solo hay una vena espinal posterior (En lugar de dos)
+
+c) El drenaje territorial de los 2 tercios anteriores de la édula espinal por la vena espnial anterior y del tercio posterior por la vena espinal suele conservarse.
+
+d) Son más frecuentes las anastomosis entre venas espinales anteriores y posteriores que en las arterias.
+
+e) Las tributarias venosas dentro de la médula y alrededor son más numerosas que las arteriales, de manera que la obstrucción venosa casi nunca daña la médula espinal.
+
+De la red venosa periespinal, la sangre drena a las venas radiculares anterior y posterior, y el plexo vertebral longitudinal denso, localizado en la parte posterior y anterior en el espacio epidural. Posteriormente, la sangre llega al plexo venoso vertebral externo, por medio de los agujeros intervertebrales y sacros.
 
