@@ -291,5 +291,280 @@ Las largas incluye el cíngulo, fascpiculo longitudinal superior, fascículo arq
 
 El cíngulo es el núcleo de materia blanca del giro del cíngulo.
 
-(imagen X-4B & C). Representación de loas haces largos de fibras de asociación.
+(imagen X-4). Representación de loas haces largos de fibras de asociación.
 
+El giro conecta la sustancia perforada anterior y el giro parahipocámpico.
+
+El fascículo longitudinal superior conecta porciones del lóbulo frontal con los lóbulos parietal, occipital y temporal.
+
+El fascículo arqueado es parte del fascículo longitudinal superior, y se desliza por la ínsula para conectar áreas del habla en el giro frontal inferior y el giro temporal superior.
+
+El longitudinal inferior son son fibras que pasan debajo de las superficies lateral y ventral de los lóbulos temporal y occipital; este haz no se sabe si exista en el hombre.
+
+Pero hay uno que si existe con seguridad para conectar el occipital y el temporal, la radiación óptica (vía eniculoestriada).
+
+Aparte de esto, los lóbulos se conectan por fibras [u] (de asociación corta) que unen las cortezas occipital y temporal.
+
+Por esto se le llama mejor fascículo occipitotemporal.
+
+Este fascículo va desde el lobulo prefrontal, e irradia los lóbulos temporal y occipital.
+
+Tien 2 subdivisiones, uno superior (subcalloso) y un inferior.
+
+El superor está profundo en el hemisferio, dorsolateral al ventrículo lateral, entre el cuerpo calloso, cápsula interna y núcleo caudado.
+
+El inferior está a un lado del cuerpo temporal del ventrículo lateral, abajo de la corteza insular y el cuerpo lentiforme.
+
+El [fascículo uncinado] es componente del inferior, viaja por el fondo de la fisura de Silvio para conectar el giro frontal inferior con el lóbulo temporal anterior.
+
+
+C. SISTEMA DE FIBRAS COMISURALES
+Provienen de regiones que si y que no le corresponden al hemisferio contralateral, siguiendo el cuerpo calloso, proyectandose en neuronas en todas las láminas, pero más que nada en la I, II y III. (#image-X-3).
+
+La rodilla interconecta la corteza prefrontal, cuerpo de las cortezas premotora y motora suplementaria, la motora primaria y sensoriales somáticas primaria & secundaria y la corteza parietal posterior.
+
+Y el esplenio interconecta la temporal y occipital.
+
+La comisura anterior une los lóbulos temporales; la comisura hipocámpica une los 2 hipocampos.
+
+
+EFERENCIAS DE LA CORTEZA CEREBRAL
+Se separa en 3 categorías.
+
+(imagen X-5). Esquema de los principales grupos de eferencias corticales.
+
+1. Sistema de fibras de asociación
+2. Sistema de fibras comisurales
+3. Sistema de fibras corticofugales
+
+Cada uno tiene su lámina de origen único.
+
+A las de asociación cortas le llegan de la II, largas de la III y V.
+
+A las comisurales interhemisféricas le llegan de la III.
+
+De las corticofugales tenemos las corticotalámicas, que le llegan de la VI; corticoespinales y corticobulbares de la III y V, corticoestriadas y corticopontinas de la V.
+
+Las fibras corticofugales incluye los tractos de fibras que se van alv de la corteza pa irse a chingar su madre en otras estructuras subcorticales. Tenemos las siguientes vías.
+
+A. VÍA CORTICOESPINAL
+
+(imagen X-6). Representación de la vía corticoespinal.
+
+Esta madre conecta la corteza con las neuronas motoras de la médula espinal, relacionadose con el movimiento volitivo excesivamente hábil.
+
+Nace de neuronas piramidales del a V, de las áreas más anchas de corteza, pero más que nada de somáticas motora, premotora y somatosensorial.
+
+Tiene en cada lado como 1,000,000 de fibras de tamaño variable (9 a 22um), de las que un 3% es grande y viene de células gingantes de Betz e la V de la motora.
+
+Estas fibras bajan en la cápsula interna, en medio del pedúnculo cerebral, puente de varolio y pirámides para llegar al a médula como los fascículos corticoespinales anterior y anterior.
+
+Al lateral trae casi todas las fibras, se decusa en las pirámides.
+
+El anterior es más chiquito, se cruza a niveles segmentarios en la médula.
+
+El componente de esta vía desde la corteza somatosensorial termina en neuronas sensoriales del cuerpo dorsal de la médula, vinculado con función somatosensorial, relacionada con el movimiento en curso.
+
+Gran parte del componente sensorial de la vía nace del área 3a, conectando la corteza motora primaria, y recibiendo aferencias sensoriales de propioceptores (retroalimentación).
+
+
+B. FASCÍCULO PIRAMIDAL ABERRANTE
+Este tracto se divide del sistema de fibras corticoespinales en el pedúnculo, uniendose al lemnisco medial en el mescencéfalo caudal, extendéndose por puente hasta la oblongada media, y aqui alv ya no se ve.
+
+Es una parte del fascículo corticobulbar, contribuye parte del fascículo corticobulbar que le manda a los núcleos de nervios craneales.
+
+Osea que se encarga de apaar nervios craneales supranuclares al saber de una lesión del lemnisco medial.
+
+Algunas fibras llegan hasta corteza.
+
+
+C. VÍA CORTICORRETICULAR
+Casi todas vienen de casi todas las zonas de corteza, pero más que nada de la motora, premotora y somatosensorial.
+
+Las que vienen de un hemisferio se mandan a ambos lados de la formación reticular.
+
+Muchas de estas fibras se proyectan a núcleos de nervios craneales en tallo y forman la vía corticorreticulobulbar.
+
+
+D. VÍA CORTICOBULBAR
+Vienen del área rostral de la corteza motora.
+
+Se proyectan a núcleos de los nervios trigémino, facial, glosofaríngeo, vago, accesorio e hipogloso.
+
+Las directas se proyectan de la corteza a los núcleos V, VII y XII.
+
+Estas descienden en la rodilla de la cápsula interna, ocupando una esquina dorsolateral del segmento corticoespinal del pedúnculo cerebral, y un pedacito en la parte medial de la base del pedúnculo cerebral.
+
+En el punete, las fibras corticobulbares se entremezclan con corticoespinales en la base del puente.
+
+Al interrumpir por los dos lados las fibras corticobulbares o corticorreticulobulbares se da una paresia, más no una parálisis.
+
+Hoy en dái sabemos que hay 5 áreas corticales para representar la cara en humanos.
+
+Además de la corteza motora primaria (M1) para la cara tenemos las siguientes áreas:
+
+a) Corteza motora suplementaria M2
+b) Giro del cíngulo rostral M3
+c) Giro del cíngulo caudal M4
+d) Corteza premotora lateral ventral CPMLv.
+
+De estas que acabo de escribir, M1 y CPMLv mandam las proyecciones más cabronas al núcleo facial, y ya la M2 manda menos y pues M3 y M4 no valen verga.
+
+M1, M4 y CPMLv inervan más que nada el subnúcleo facial inferior contralateral, y M2 y M3 inervan ambos subnúcleos faciales altos.
+
+(imagen X-7). Esquema de los orígenes de las fibras corticobulbares al subnúcleo facial inferior contralateral (A) y los dos subnúcleos faciales superiores (B).
+
+Distintas regiones inervan distintos aspectos de la cara, y sistemas neurales separados meedian movimientos faciales voluntarios y emocionales.
+
+M3 y M4 promueven expresión emocional de la cara.
+
+Reconocer caras felices aumenta la respuesta en la corteza orbitofrontal.
+
+
+D. VIA CORTICOPONTINA
+
+(imagen X-8). Representación de las vías corticopontina y pontocerebelosa.
+
+Las fibras de esta madre vienen de toda la corteza, pero más que nada de los lóbulos frontal, parietal y occipital.
+
+Casi todas las fibras vienen de la cortezas motora primaria (giro precentral) y sensorial primaria (giro poscentral), con tantitas fibras de la premotora, motora suplementaria y parietal posterior. Chingue su madre, tantitas también alv de la temporal y prefrontal.
+
+Bajan por la cápsula interna, ocupan la parte más medial y lateral del pedúnculo cerebral antes de llegar a la base del puente, aqui se proyectan a lós núcleos pontinos.
+
+Son el componente más grande y vergas del sistema de fibras corticofugales.
+
+Cada vía tiene como 19,000,000 de fibras.
+
+Con una cantidad igual de neuronas pontinas a cada lado de la base del puente.
+
+Las fibras terminan en láminas delineadas que van rostrocaudalmente.
+
+Varias áreas corticales se proyectan a partes separadas de los núcleos del puente, pero algunas se suprponoen.
+
+Las neuronas pontinas que reciben fibras dan lugar a la vía pontocerebelosa.
+
+
+E. VÍA CORTICOTALÁMICA
+Viene del área cortical que tiene proyecciones talámicas (de reversa pues).
+
+(imagen X-9). Esquema de las relaciones talamocorticales
+
+Estas conexiones recíprocas incluyen:
+
+a) Tálamo dorsomedial y corteza prefrontal
+b) Tálamo anterior y corteza del cíngulo
+c) Tálamo ventrolateral y corteza motora
+d) Tálamo posteroventral y giro poscentral
+e) Tálamo geniculado medial y corteza auditiva
+f) Tálamo geniculado lateral y corteza visual
+
+Pero nomas es de reversa 1 vez.
+
+El núcleo reticular rebibe aferencias de casi toda la corteza, pero no es recíproco.
+
+El reticular recibe colaterales de todas las proyecciones talamocorticales y todas las corticotalámicas, por lo que sabe bien que pedo de la actividades entre el tálamo y corteza.
+
+Las fibras corticotalámicas bajan en varias partes de la cásula interna, penetrando el tálamo por medio de la radiación talámica, que lleva las fibras talamocorticales recíprocas.
+
+
+F. VÍA CORTICOHIPOTALÁMICA
+Nacen de la corteza prefrontal y giro del cíngulo, amígdala, corteza olfatoria, hipocampo y área septal.
+
+Y ya, es todo lo que sabemos de esta verga.
+
+
+G. VÍA CORTICOESTRIADA
+Hay directas e indirectas
+
+a) directas
+Llegan por la cápsula interna y externa por el fascículo subcalloso
+
+b) indirectas
+Incluye la vía corticotalamoestriada, fibras colaterales de la vía corticoolivar y colaterales de la vía corticopontina.
+
+
+Esta madre tiene aferentes estriales masivas.
+
+LE llegan de toda corteza, de hecho, las que están interconectadas en corteza mandan zonas de terminación en el neoestriado.
+
+LAs corticoestriales se organizan de manera topográfica en 3 territorios estriales diferentes:
+
+a) sensoriomotor
+Recibe aferencias de las áreas sensoriales y motoras (duh)
+
+b) asociativo
+De las áreas de asociación (xP)
+
+c) límbico
+No mames, de áreas límbica y paralímbica.
+
+
+Estas vías se organizan de manera somatotópica, las de asociacion van al núcleo caudado, las corticales al putamen.
+
+Las corticoputaminales se organizan de manera adicional porque las corticales del brazo, pierna y cara se proyectan a las áreas correspondientes en el putamen.
+
+
+H. OTRAS VÍAS CORTICOFUGALES
+Hay vías que van a nucleos sensoriales del tallo, como el núcleo grácil y cuneiforme, trigeminales y así.
+
+Estas fibras sibren de retroalimentación.
+
+LAs corticosubtalámicas nacen de las áreas motora y premotora.
+
+Hay una proyección corticotectorial que viene de los campos oculares frontales (8 de la frontal) además de la occipital.
+
+Las corticorrúbicas nacen de las mismas que el fascículo corticoespinal, y terminan en el núcleo rojo del mesencéfalo.
+
+
+CIRCUITO INTRACORTICAL
+Las neuronas de corteza tienen axones descendentes o ascendentes, horizontales, cortos, ricos pobres clase media...
+
+Los descendentes forman parte de los sistemas de fibras de asociación y corticofugales.
+
+Los ascendentes, horizontales y cortos tienen una importancia en los ¡circuitos intracorticales!.
+
+LAs de axonees ascendentes son las de Martinotti.
+Horizontales de Cajal.
+Hay axones cortos en las Estelares
+Las piramidales tienen colaterales axónicas horiontales y recurrentes...
+
+La colateral de una piramidal se puede proyectan en una estelar o una de MArtionotti, que, puede influir otras neuronas corticales, disparando pandemonio.
+
+(imagen X-10). Representación que muestra el circuito cortical intrínseco.
+
+1) Una aferencia talamocortical ecita piramidales (de proyección) en la VI e interneuronas en la IV.
+
+2) Interneuronas inhibidoras de la IV anulan a las de la misma capa.
+
+3) LAs excitadoras de la IV activan piramidales e inhibidoras de la II y la III.
+
+4) Las inhibidoras de la II y la III desactivan piramidales aquí.
+
+5) Las piramidales de la II y la III excitan neuronas de proyección en la IV y la V.
+
+6) Colaterales axónicas de proyección de la V excitan neuronas de proyección corticotalámicas e nla VI.
+
+7) Colaterales axónicas de proyección corticotalámicas en la VI se van de nuevo a excitadoras de la IV, y aquí se cierra el desmadre.
+
+
+Las interneuronas de als capas profundas (de Martionotti) y corticales superficiales (de Cajal) forman el circuito intracortical por diseminación vertical y horizontal de impulsos.
+
+Las células de MArtionotti, ya prendidas, activan una piramidal u otra interneurona.
+
+Igualmente, los axones de las de Cajal horizontales influyen en los procesos verticales.
+
+
+ÁREAS CORTICALES CITOESTRUCTURALES
+Las siguientes partes de corteza varían dependiendo con lo siguiente:
+
+1) Grosor de la corteza
+2) Anchura de las diferentes capas de corteza
+3) Tipos de célula de cada capa
+4) Densidad de cada capa
+5) Laminación de fibras nerviosas.
+
+En base a este pedo, hay de 20 a 200 áreas corticales.
+
+La más vergas es la de Brodman, con 52 áreas, ennumeradas en el orden que se le hincharon los guevos.
+
+(cuadro X-3). Áreas de Brodmann
