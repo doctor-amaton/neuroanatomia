@@ -12,10 +12,10 @@ Una pequeña area de corteza recibe aferencias sensoriales de ojos oidos y piel,
 
 Más del 80% de la corteza tiene una función de asociación, relacionada con actividades interadoras y cognositivas, como lenguaje, cálculo, planeación y razonamiento abstracto.
 
-Tipos de Corteza
+TIPOS DE CORTEZA
 Filogenéticamente y por microscopía se distinguen 3 tipos de corteza.
 
-Isocorteza (Neocorteza o corteza homogenética)
+A. ISOCORTEZA (NEOCORTEZA O CORTEZA HOMOGENÉTICA)
 Tiene 6 capas y son lo máas reciente, es propio de lo mamíferos, más grande en los superiores y es el 90% de la corteza cerberal del hombre.
 
 A la corteza a la que se le evidencian las 6 capas se llama corteza homotípica.
@@ -26,14 +26,17 @@ A la corteza visual se le llama granulosa o coniocorteza.
 
 La motora se llama agranular porque tiene neuronas piramidales grandes.
 
-Alocorteza (paleocorteza, arquicorteza o heterogenética)
+B. ALOCORTEZA (PALEOCORTEZA, ARQUICORTEZA O HETEROGENÉTICA)
 Tiene 3 capas, es la más vieja, se divide en paleocorteza (insular rostral, corteza piriforme y olfatoria primaria) y arquicorteza (formación hipocámpica)
 
-Mesocorteza (perialocorteza)
+C. MESOCORTEZA (PERIALOCORTEZA)
 Está en casi todo el giro del cíngulo, las entorrinal, parahipocámpica y orbitraria.
 
-Estructura microscópica
-Tipos celulares
+ESTRUCTURA MICROSCÓPICA
+TIPOS CELULARES
+
+(imagen X-1). Esquema de los diversos tipos de neuronas corticales
+
 Se dividen en 2 categorías funcionales:
     a) Principales (proyección)
     Tienen eferencias corticocorticales y corticosubcorticales
@@ -43,23 +46,250 @@ Se dividen en 2 categorías funcionales:
 
 Las principales provienen del neuroepitelio en la zona ventriculr, las inter de la eminencia ganglionar del telencéfalo ventral, que da lugar a ganglios basales también.
 
-Neuronas principales (proyección)
+A. NEURONAS PRINCIPALES (PROYECCIÓN)
 Pertenecen 2 subtipos, piramidales y fusiformes.
 
 El neurotransmisor para las 2 es el glutamato/aspartato. Las principales son más de la mitad de todas las corticales.
 
-    a) Neuronas piramidales
-    Su vértice se dirige a la superficie cortical. Cada una tiene una dendrita apical en dirección de la superficie, y varias basales.
+I. Neuronas piramidales
 
-    Las ramas de todas las dendritas tienen espinas, que hacen más grande el área sináptica.
+(imagen X-1A).
 
-    De la base de las piramidales sale un axón acia otras neuronas del mismo hemisferio o el contrlateral, o bien se va de la corteza hacia las regiones subcorticales.
+Su vértice se dirige a la superficie cortical. Cada una tiene una dendrita apical en dirección de la superficie, y varias basales.
 
-    En la corteza, este axón genera 2 tipos de colaterales axónicas, recurrentes (CAR), que van de nuevo a las neuronas de capas más superficiales; colaterales horizontales (CAH), que se van horizontalmente para hacer sinapsis con las contiguas.
+Las ramas de todas las dendritas tienen espinas, que hacen más grande el área sináptica.
 
-    Hay piramidales en todas las capas menos en la 1, con tamaño de 10 y 50um de altura, las más grandes (gigantes de Betz) tienen cerca de 100um de h, en la capa V de la corteza motora.
+De la base de las piramidales sale un axón acia otras neuronas del mismo hemisferio o el contrlateral, o bien se va de la corteza hacia las regiones subcorticales.
 
-    b) Neuronas fusiformes
-    Son pequeñas, con pericarion alargado, donde el eje largo se orienta perpendicular de la superficie cortical.
+En la corteza, este axón genera 2 tipos de colaterales axónicas, recurrentes (CAR), que van de nuevo a las neuronas de capas más superficiales; colaterales horizontales (CAH), que se van horizontalmente para hacer sinapsis con las contiguas.
 
-    
+Hay piramidales en todas las capas menos en la 1, con tamaño de 10 y 50um de altura, las más grandes (gigantes de Betz) tienen cerca de 100um de h, en la capa V de la corteza motora.
+
+II. Neuronas fusiformes
+
+(imagen X-1C).
+
+Son pequeñas, con pericarion alargado, donde el eje largo se orienta perpendicular de la superficie cortical.
+
+Les surge una dendrita corta del polo inferior que se ramifica en la cercanía.
+
+Del superior, nace una larga que se exitnede hacia capas superficiales.
+
+El axón penetra en la sustancia blanca profunda.
+
+Este tipo de neuronas se reconoce en las láminas corticales profundas.
+
+B. INTERNEURONAS
+Hay varios tipos, estelares, horizontales de Cajal y de Maritinotti.
+
+I. Estelares o granulares
+
+(imagen X-1B).
+
+Son pequeñas (4 a 8um) con forma de estrella, dendritas cortas y espinosas, ramificadas y con axones cortos.
+
+Más numerosas en la lámina IV. Son el único tipo excitador en la corteza.
+
+El neurottransmisor que usan es el glutamato. Todas las otras neuronas tienen función inibidora por medio de GABA.
+
+II. Células horizontales de Cajañ
+
+(imagen X-1D).
+
+Son pequeñas con ejes largos que se siguen paralelos a la superficie cortical.
+
+De cada polo surge una dendrita que se ramifica y un axón.
+
+Solo se encuentran en la lámina I, desaparecen después del periodo neonatal.
+
+III. Células de Martinotti
+
+(imagen X-1E).
+
+Sus axones ascienden a la superficie de la corteza, son multipolares, con dendritas ramificantes cortas y un axon que sube a las capas más sperficiales mientras emite colaterales axónicas horizontales.
+
+Estas células se encuentran en las capas más profundas.
+
+C. CAPAS
+La neurocorteza se divide en 6 capas.
+
+(cuadro X-1). Capas corticales
+
+LAs 6 capas de neocorteza se reconocen cerca del mes 7 de vida intrauterina.
+
+Las neuronas se desarrollan en ondas desde la matriz gemrinal periventricular.
+
+Poco a poco se van haciendo ondas de neuroblastos en migración más alejadas de la matriz germinal.
+
+(cuadro X-2).
+
+Si se detiene este proceso se vienen malformaciones de los giros, agiria, paquigiria, micropoligiria y heterotopia; vinculados con retraso mental etc.
+
+I. Capa I (Molecular o Plexiforme)
+Es una red de procesos de células con algunas interneuronas de Cajal y neuroglia.
+
+Los procesos se proyectan a sitios extracorticales y algunos corticales.
+
+Esta capa es un área sináptica.
+
+II. Capa II (Granulosa externa)
+Tiene neuronas piramidales chiquitas y medianas, asi como interneuronas.
+
+También hay axones de otras capas del mismo hemisferio o del opuesto, así como dendritas y axones de vienen de capas más profundas.
+
+Las dendritas de las piramidales de esta capa se van a la capa I, mientras que los axones a capas más profundas.
+
+Esta capa hace más complicado el circuito intracortical.
+
+III. Capa III (Piramidal externa)
+Tiene neuronas piramidales, cada vez más grandes entre más profundo estén.
+
+Las dendritas de esta capa se van a la capa I, los axones a las otras, o se van del hemisferio a sitios extracorticales.
+
+Esta capa recibe axones de otras áreas de corteza y de cosas como el tálamo.
+
+Tiene cintas características de Kaes-Bekhterev.
+
+IV. Capa IV (Granulosa interna)
+Tiene piramidales y estelares pequeñas con densidad, asi como procesos que acaban en la misma capa, ya sea por las estelares oq ue vengan de otra región cortical o subcortical.
+
+Esta es la capa más densa.
+
+Son pocas las estelares que mandan sus axones a capas más profundas.
+
+LA banda externa de Baillarger o cinta de Gennari atraviesa esta capa en la corteza visual primaria, es una banda de fibras talamocorticales orientada de modo horizontal.
+
+La capa granulosa interna es el receptor principal de fibras talamocorticales de núcleos de relevo sensoriales de modalidad específica.
+
+V. Capa V (Piramidal interna)
+Tiene células piramidales grandes y medianas, estelares y de Martinotti.
+
+Es la menos densa, aqui es´tan las piramidales más grandes (de Betz).
+
+Las dendritas de esta capa se van a las más superficiales.
+
+Los axones se van a áreas corrticales si, pero nmms la mayoria a sitios subcorticales, a excepción del tálamo que recibe fibras de la VI.
+
+A esta capa le entran axones y dendritas de otros lados, así como una banda densa de fibras horizontales, la de Baillarger.
+
+Esta cinta es formada por fibras de los núcleos sensoriales talámicos.
+
+VI. Capa VI (Multiforme)
+Tiene células de formas y tamaños variables, fusiformes, de Martinotti...
+
+Las dendritas de las células más chiquitias se ramifican  localmente o a capas adyacentrs, pero las más grandes se van hasta la I.
+
+Los axones de aqui se van a otras láminas o regiones subcorticales.
+
+
+LAs capas I, V y VI están ubicadas en todos lados. Pero, la II, III y IV solo están en neocorteza.
+
+De la I a la IV son receptivas.
+
+La mayoría de las neuronas con conexiones intracorticales están en las II y la III.
+
+LAs V y VI son eferentes, las de la V mandan corticofugales a áreas subcorticales (tallo y médula espinal) las de la VI mandan al tálamo.
+
+Funcionalmente es mejor la laminación vertical; 
+
+La unidad funcional de la actividad cortical es una columna de neuronas, cada una con 300 o 500um de diámetro, con una altura y grosor que tenga la corterza, unas 4,000 neuronas (2000 piramidales).
+
+Todas las neuronas de una columna son activadas selectivamente por un estímulo periférico.
+
+En el cerebro hay unos 3,000,000,000 módulos.
+
+Los módulos se comunican entre hemisferios por axones.
+
+Activar un módulo inhibie la actividad de otros módulos adyacentes.
+
+La organización en columnas comienza en la vida fetal, pero las conexiones amarran gracias al ambiente externo.
+
+No tener estímulos en un periodo crítico como en el primer año de vida manda a la verga el desarrollo de la corteza.
+
+
+AFERENCIAS A LA CORTEZA CEREBRAL
+
+(imagen X-2). Representación de los orígenes de las fibras aferentes a la corteza cerebral.
+
+Vienen de 4 sitios:
+
+1. Tálamo
+2. Modulador extratalámico
+3. Corteza del mismo hemisferio (fibras de asociación)
+4. Corteza del hemisferio contralateral (fibras comisurales).
+
+A. AFERENCIA TÁLAMOCORTICAL
+Viene de 2 sistemas:
+
+a) específico
+Viene de núcleos específicos (ventrales anterior, lateral y posterior) y se va a áreas corticales específicas (motora primaria, premotora y somestésica);
+
+Estas fibras llegan como un componente de la cápsula interna; casi todas las fibras se proyecta a neuronas de la IV y algunas a las de la III y VI.
+
+(imagen X-3A). Esquema del patrón ode terminación de las diversas aferencias a las láminas corticales
+
+
+b) inespecífico
+Relacionado con el sistema reticular, nace de núcleos inespecíficos (intralaminares, del a línea media y reticulares).
+
+Se proyectan fibras en la corteza de este sistema en todas las láminas y forman sinapsis axodendríticas.
+
+(imagen X-3B).
+
+
+Estas fibras funcionan para el despertamiento y la vigilia.
+
+B. AFERNCIA MODULADORA EXTRATALÁMICA.
+
+Hay 4 proyecciones extratalámicas, las vías monoaminérgicas y colinérgicas llegan directo a corteza.
+
+
+I. Aferencia monoaminérgica
+a) Serotoninérgica
+Viene de núcleos delrafe de mese y puente de varolia rostral.
+
+Siguen el haz medio del cerebro anterior, temrinan en las capas que reciben la talamocortical (III, IV y VI).
+
+Estas fibras se proyectan ampliamente en la corteca cerebral, y la visual recibe todavía más.
+
+No se sabe bien pa que, pero están relacionadas con el dolor, emoción y sueño.
+
+Dicen que es una reacción a un cambio en el estado.
+
+
+b) Dopaminérgica
+Viene de neuronas dopaminérgicas el mese (tegmentaria ventral de Tsai y parte la materia negra).
+
+Termina en toda la corteza pero mpás que nada en de asociación motora, prefrontal y temporal.
+
+Dicen que funciona para la conducta, actividad de circuitos corticocorticales, pero no en talamocortoicales o procesos integrativos de orden alto o aspectos del procesamiento sensorial.
+
+Influye en la regulación cortical del control motor, puede causar parkinson.
+
+c) Noradrenérgica
+Viene del núcleo cereleus en puente de varolio rostral.
+
+Se proyecta a corteza y termina en capas que dan lugar a las corticofugales.
+
+Dicen que es para procesamiento de orden alto y el despertamiento, incrementa la selectividad y vigor de respuestas corticales a estimulos sensoriales u otas aferencias.
+
+d) Histaminonérgica
+Viene del núcleo tuberomamilar en el hipotálamo posterolateral, quien sabe pa que sirva
+
+e) Colinérgica
+Viene del núcleo basal de Meynert, termina en toda la corteza, sirve para despertar y motivación, se vincula con el Alzheimer.
+
+
+II. Aferencia GABAergica
+Viene de células del tabique y la banda de Broca, termina en el hipocampo.
+
+
+B. SISTEMA DE FIBRAS DE ASOCIACIÓN
+Vienen de regiones cercanas y distantes del mismo hemisferio, se proyectan de manera difusa en todas las láminas perom ás en la I a III.
+
+Las largas incluye el cíngulo, fascpiculo longitudinal superior, fascículo arqueado, fascículo longitudinal inferior, fascóculo occipitofrontal y fascíoculo uncinado.
+
+El cíngulo es el núcleo de materia blanca del giro del cíngulo.
+
+(imagen X-4B & C). Representación de loas haces largos de fibras de asociación.
+
